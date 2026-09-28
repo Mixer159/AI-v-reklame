@@ -1,0 +1,16 @@
+# Local dependencies and Python bytecode
+node_modules/
+.venv/
+__pycache__/
+*.py[cod]
+
+# System files, Office locks, and local LibreOffice profiles
+.DS_Store
+~$*
+lo-profile/
+
+# Local credentials
+.env
+.env.*
+!.env.example
+!.env.sample

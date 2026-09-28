@@ -1,0 +1,13 @@
+datum,rok_desetinne,rada,model,organizace,hodnota_procent,varianta_a_nastaveni,kdo_meril,zdroj_url
+2024-04-11,,OSWorld (původní),Nejlepší model v původní studii,XLANG Lab (autoři testu),12.24,původní OSWorld,autoři testu (nezávisle),https://arxiv.org/abs/2404.07972
+2024-10-22,,OSWorld (původní),Claude 3.5 Sonnet (new),Anthropic,22.0,původní OSWorld; více kroků,výrobce,https://www.anthropic.com/news/3-5-models-and-computer-use
+2025-01-23,,OSWorld (původní),OpenAI CUA (Operator),OpenAI,38.1,původní OSWorld,výrobce,https://openai.com/index/computer-using-agent/
+2025-05-22,,OSWorld (původní),Claude Sonnet 4,Anthropic,42.2,původní OSWorld,výrobce,https://www.anthropic.com/news/claude-sonnet-4-5
+2025-07-28,,OSWorld-Verified,CoACT-1 (rámec pro agenty),výzkumný tým,60.76,OSWorld-Verified,autoři testu (žebříček),https://xlang.ai/blog/osworld-verified
+2025-09-29,,OSWorld-Verified,Claude Sonnet 4.5,Anthropic,61.4,OSWorld-Verified; 100 kroků; průměr 4 běhů,výrobce,https://www.anthropic.com/news/claude-sonnet-4-5
+2025-11-24,,OSWorld-Verified,Claude Opus 4.5,Anthropic,66.3,v tabulce označeno OSWorld; tatáž tabulka uvádí Sonnet 4.5 s hodnotou pro Verified,výrobce,https://www.anthropic.com/news/claude-opus-4-5
+2026-02-05,,OSWorld-Verified,Claude Opus 4.6,Anthropic,72.7,v tabulce označeno OSWorld,výrobce,https://www.anthropic.com/news/claude-opus-4-6
+2026-03-05,,OSWorld-Verified,GPT-5.4,OpenAI,75.0,OSWorld-Verified,výrobce,https://openai.com/index/introducing-gpt-5-4/
+2026-04-16,,OSWorld-Verified,Claude Opus 4.7,Anthropic,78.0,OSWorld-Verified,výrobce,https://www.anthropic.com/news/claude-opus-4-7
+2026-04-23,,OSWorld-Verified,GPT-5.5,OpenAI,78.7,OSWorld-Verified,výrobce,https://openai.com/index/introducing-gpt-5-5/
+2024-04-11,,Lidé v původní studii,Lidé,XLANG Lab (autoři testu),72.36,původní OSWorld,autoři testu (nezávisle),https://arxiv.org/abs/2404.07972

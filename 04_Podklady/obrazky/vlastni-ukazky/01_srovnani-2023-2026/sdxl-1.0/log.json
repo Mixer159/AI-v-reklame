@@ -1,0 +1,106 @@
+{
+  "model": "stabilityai/stable-diffusion-xl-base-1.0 (SDXL 1.0 base, released 2023-07-26)",
+  "revision": "462165984030d82259a11f4367a4eed129e94a7b",
+  "settings": {
+    "width": 1024,
+    "height": 1024,
+    "num_inference_steps": 30,
+    "guidance_scale": 7.0,
+    "scheduler": "EulerDiscreteScheduler",
+    "negative_prompt": null,
+    "refiner": null
+  },
+  "env": {
+    "diffusers": "0.40.0",
+    "transformers": "5.17.0",
+    "torch": "2.14.0",
+    "device": "mps",
+    "machine": "macOS-27.0-arm64-arm-64bit"
+  },
+  "runs": [
+    {
+      "prompt_id": "T1",
+      "seed": 1,
+      "file": "sdxl/T1_seed1.png",
+      "seconds": 373.0,
+      "generated_at": "2026-09-22T22:48:23+0200"
+    },
+    {
+      "prompt_id": "T1",
+      "seed": 2,
+      "file": "sdxl/T1_seed2.png",
+      "seconds": 522.8,
+      "generated_at": "2026-09-22T22:57:06+0200"
+    },
+    {
+      "prompt_id": "T1",
+      "seed": 3,
+      "file": "sdxl/T1_seed3.png",
+      "seconds": 278.6,
+      "generated_at": "2026-09-22T23:01:45+0200"
+    },
+    {
+      "prompt_id": "T1",
+      "seed": 4,
+      "file": "sdxl/T1_seed4.png",
+      "seconds": 261.6,
+      "generated_at": "2026-09-22T23:06:07+0200"
+    },
+    {
+      "prompt_id": "T2",
+      "seed": 1,
+      "file": "sdxl/T2_seed1.png",
+      "seconds": 277.8,
+      "generated_at": "2026-09-22T23:10:45+0200"
+    },
+    {
+      "prompt_id": "T2",
+      "seed": 2,
+      "file": "sdxl/T2_seed2.png",
+      "seconds": 250.8,
+      "generated_at": "2026-09-22T23:14:55+0200"
+    },
+    {
+      "prompt_id": "T2",
+      "seed": 3,
+      "file": "sdxl/T2_seed3.png",
+      "seconds": 252.2,
+      "generated_at": "2026-09-22T23:19:08+0200"
+    },
+    {
+      "prompt_id": "T2",
+      "seed": 4,
+      "file": "sdxl/T2_seed4.png",
+      "seconds": 256.0,
+      "generated_at": "2026-09-22T23:23:24+0200"
+    },
+    {
+      "prompt_id": "T3",
+      "seed": 1,
+      "file": "sdxl/T3_seed1.png",
+      "seconds": 256.1,
+      "generated_at": "2026-09-22T23:27:40+0200"
+    },
+    {
+      "prompt_id": "T3",
+      "seed": 2,
+      "file": "sdxl/T3_seed2.png",
+      "seconds": 268.4,
+      "generated_at": "2026-09-22T23:32:08+0200"
+    },
+    {
+      "prompt_id": "T3",
+      "seed": 3,
+      "file": "sdxl/T3_seed3.png",
+      "seconds": 269.2,
+      "generated_at": "2026-09-22T23:36:38+0200"
+    },
+    {
+      "prompt_id": "T3",
+      "seed": 4,
+      "file": "sdxl/T3_seed4.png",
+      "seconds": 272.5,
+      "generated_at": "2026-09-22T23:41:10+0200"
+    }
+  ]
+}

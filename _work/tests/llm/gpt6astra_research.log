@@ -1,0 +1,85 @@
+Reading additional input from stdin...
+OpenAI Codex v0.156.0
+--------
+workdir: /Users/maximkudela/Documents/AI-v-reklame/_work/tests/llm
+model: gpt-6-astra
+provider: openai
+approval: never
+sandbox: read-only
+reasoning effort: high
+reasoning summaries: none
+session id: 01a0cadd-2172-7472-bc37-b7a8dd0bc890
+--------
+user
+Pracuješ jako analytik pro fiktivní českou bylinnou limonádu ZÁTOKA. Pomocí vyhledávání na webu najdi tři aktuální, ověřitelné údaje o trhu nealkoholických nápojů nebo limonád v Česku, které by se hodily do briefu kampaně. U každého uveď: údaj (číslo), období, kdo ho změřil, přesný odkaz na původní zdroj a jednu větu, proč je pro kampaň užitečný. Pokud údaj nemůžeš ověřit v původním zdroji, napiš to. Odpověz česky a stručně.
+codex
+Vyhledám tři údaje a ověřím je přímo u organizací, které je zveřejnily.
+
+web search: 
+web search: site.nielseniq.com Česko nealkoholické nápoje 2025 limonády ...
+exec
+/bin/zsh -lc 'cat /Users/maximkudela/.codex/skills/unslop/SKILL.md' in /Users/maximkudela/Documents/AI-v-reklame/_work/tests/llm
+ succeeded in 0ms:
+---
+name: unslop
+description: "Remove formulaic copy, decorative UI, and unnecessary code from a requested text, page, or diff. Use for unslop requests and final polish."
+---
+
+# Unslop
+
+Make the requested material clearer and more deliberate while preserving its meaning, behavior, and voice. Apply plain writing to replies without turning each reply into a review exercise.
+
+## Scope
+
+Use the supplied text, files, page, or diff. If no target is supplied, use the current task's changes. Resolve the review base from the repository when a diff comparison is needed. Review all requested routes when the user asks for the whole site.
+
+Read only the relevant references:
+
+| Material | Reference |
+|---|---|
+| Copy or substantive prose editing | [Copy](references/copy.md) |
+| Rendered interface | [UI](references/ui.md) |
+| Source code | [Code](references/code.md) |
+| Skills and agent instructions | [Skill voice](references/skill-voice.md) |
+
+## Editing standard
+
+Cut repetition, unsupported claims, stock phrasing, and elements without a useful purpose. Keep concrete language, natural rhythm, and the requested tone. Avoid em dashes. Preserve technical terminology when it is the precise word.
+
+Follow the shared [design preferences](../../AGENTS.md#visual-and-design-work). A card, icon, control, or abstraction may stay when it does real work. Do not remove accessibility, validation, or security behavior for visual or stylistic uniformity.
+
+Check the changed material once and fix remaining concrete defects. Repeat verification when an edit creates a new risk; do not require counts or fixed rounds for their own sake. For an explicit instruction rewrite, remove obsolete process rules as well as rephrasing them.
+
+Report the meaningful changes and any material limitation. For a routine final pass, include only what helps the main task's delivery; a separate slop report is unnecessary.
+
+web search: 
+web search: site.csu.gov.cz spotřeba nealkoholických nápojů 2024 limonády 2025 ...
+web search: 
+web search: nealkoholické nápoje průzkum 2025 site.nms.global ...
+codex
+ČSÚ má zveřejněnou spotřebu za rok 2024 a ÚOHS letos vydal nové šetření trhu. Uvedu zvlášť období dat a datum vydání, aby starší měření nepůsobilo jako stav roku 2026.
+
+web search: 
+web search: 
+web search: 
+web search: 
+web search: 
+web search: 
+codex
+Tři údaje z publikací vydaných v letech **2025–2026**. Všechny jsem ověřil přímo u původce; měření ale končí rokem 2024, nejde o stav trhu v roce 2026.
+
+| Údaj pro český trh | Období | Kdo ho zjistil a původní zdroj | Využití pro ZÁTOKU |
+|---|---|---|---|
+| **85,9 litru limonád na obyvatele ročně** | 2024 | **ČSÚ**, [Spotřeba potravin, tabulka 1, str. 5](https://csu.gov.cz/docs/107508/0d4b011d-0f8d-28cf-5155-e189d7061c70/2701392501.pdf?version=1.0), vydáno 1. 12. 2025. | Ukazuje velikost zavedené kategorie, ve které může kampaň vybízet k vyzkoušení bylinné příchuti. |
+| **O 38 % vzrostly maloobchodní ceny nealkoholických nápojů** | Šetření leden 2020 až červen 2024 | **ÚOHS**, [výsledky sektorového šetření](https://uohs.gov.cz/cs/informacni-centrum/tiskove-zpravy/hospodarska-soutez/4518-sektor-nealkoholickych-napoju-rozruznene-trhy-vyssi-obchodni-prirazky-i-oslabovani-nejsilnejsich-hracu.html), zveřejněno 8. 4. 2026. | Pro brief je to důvod jasně vysvětlit hodnotu ZÁTOKY vzhledem k její ceně. |
+| **Přibližně 65–75 % maloobchodních tržeb za nealkoholické nápoje** připadalo dohromady na Albert, Lidl, Kaufland, Penny a Makro | Šetření leden 2020 až červen 2024 | **ÚOHS**, [výsledky sektorového šetření](https://uohs.gov.cz/cs/informacni-centrum/tiskove-zpravy/hospodarska-soutez/4518-sektor-nealkoholickych-napoju-rozruznene-trhy-vyssi-obchodni-prirazky-i-oslabovani-nejsilnejsich-hracu.html), zveřejněno 8. 4. 2026. | Podporuje propojení kampaně s dostupností v konkrétních prodejnách a s podporou prodeje u obchodníků. |
+tokens used
+58 887
+Tři údaje z publikací vydaných v letech **2025–2026**. Všechny jsem ověřil přímo u původce; měření ale končí rokem 2024, nejde o stav trhu v roce 2026.
+
+| Údaj pro český trh | Období | Kdo ho zjistil a původní zdroj | Využití pro ZÁTOKU |
+|---|---|---|---|
+| **85,9 litru limonád na obyvatele ročně** | 2024 | **ČSÚ**, [Spotřeba potravin, tabulka 1, str. 5](https://csu.gov.cz/docs/107508/0d4b011d-0f8d-28cf-5155-e189d7061c70/2701392501.pdf?version=1.0), vydáno 1. 12. 2025. | Ukazuje velikost zavedené kategorie, ve které může kampaň vybízet k vyzkoušení bylinné příchuti. |
+| **O 38 % vzrostly maloobchodní ceny nealkoholických nápojů** | Šetření leden 2020 až červen 2024 | **ÚOHS**, [výsledky sektorového šetření](https://uohs.gov.cz/cs/informacni-centrum/tiskove-zpravy/hospodarska-soutez/4518-sektor-nealkoholickych-napoju-rozruznene-trhy-vyssi-obchodni-prirazky-i-oslabovani-nejsilnejsich-hracu.html), zveřejněno 8. 4. 2026. | Pro brief je to důvod jasně vysvětlit hodnotu ZÁTOKY vzhledem k její ceně. |
+| **Přibližně 65–75 % maloobchodních tržeb za nealkoholické nápoje** připadalo dohromady na Albert, Lidl, Kaufland, Penny a Makro | Šetření leden 2020 až červen 2024 | **ÚOHS**, [výsledky sektorového šetření](https://uohs.gov.cz/cs/informacni-centrum/tiskove-zpravy/hospodarska-soutez/4518-sektor-nealkoholickych-napoju-rozruznene-trhy-vyssi-obchodni-prirazky-i-oslabovani-nejsilnejsich-hracu.html), zveřejněno 8. 4. 2026. | Podporuje propojení kampaně s dostupností v konkrétních prodejnách a s podporou prodeje u obchodníků. |
+finished 99s

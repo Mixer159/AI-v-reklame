@@ -1,0 +1,15 @@
+{
+  "input_image_path": "modern/T3_attempt2.png",
+  "calls": [
+    {
+      "prompt": "Edit Image 1. Remove every logo, brand name and slogan from the bike, the basket, the signs and the banners, leaving plain surfaces. Keep the woman, the street, the lighting and everything else unchanged.",
+      "source_path": "/Users/maximkudela/.codex/generated_images/01a0caeb-43c2-7fe3-a938-a202d925168f/exec-f1da6194-2fd5-4ab5-9454-fbd25d6c9c1c.png",
+      "output_path": "D4_call1.png",
+      "pixel_dimensions": {
+        "width": 1370,
+        "height": 1148
+      },
+      "image_model_name": null
+    }
+  ]
+}

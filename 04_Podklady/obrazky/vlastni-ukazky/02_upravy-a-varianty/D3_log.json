@@ -1,0 +1,25 @@
+{
+  "input_image_path": "modern/T3_attempt2.png",
+  "calls": [
+    {
+      "output": "D3_call1.png",
+      "prompt": "Use Image 1 only as the reference for the woman: same face, hair, yellow rain jacket and striped top. Create a new advertising photo of the same woman sitting at a café table by a window, laughing and looking at her phone. No text, no logos.",
+      "source_path": "/Users/maximkudela/.codex/generated_images/01a0cae8-5376-7041-9be9-59e8121919d4/exec-24a1da42-10a8-4cfd-9885-3bab01c4393a.png",
+      "pixel_dimensions": {
+        "width": 1371,
+        "height": 1148
+      },
+      "image_model": null
+    },
+    {
+      "output": "D3_call2.png",
+      "prompt": "Use Image 1 only as the reference for the woman: same face, hair, yellow rain jacket and striped top. Create a new advertising photo of the same woman locking a city bike at a docking station on a Prague street at dusk. No text, no logos.",
+      "source_path": "/Users/maximkudela/.codex/generated_images/01a0cae8-5376-7041-9be9-59e8121919d4/exec-a11886e7-458e-47e5-9e16-0e2f3b6c1f19.png",
+      "pixel_dimensions": {
+        "width": 1371,
+        "height": 1148
+      },
+      "image_model": null
+    }
+  ]
+}

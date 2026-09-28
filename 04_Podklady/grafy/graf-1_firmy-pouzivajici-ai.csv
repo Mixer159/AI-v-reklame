@@ -1,0 +1,9 @@
+rok,uzemi,hodnota_procent,merena_velicina,populace,poznamka,zdroj,url,stazeno
+2021,EU27,7.65,podniky používající alespoň jednu technologii AI,podniky s 10+ zaměstnanci (NACE C–N a 95.1 bez finančního sektoru),,Eurostat isoc_eb_ai,https://ec.europa.eu/eurostat/databrowser/view/isoc_eb_ai/default/table,2026-09-22
+2023,EU27,8.06,podniky používající alespoň jednu technologii AI,podniky s 10+ zaměstnanci,2022 se neměřilo,Eurostat isoc_eb_ai,https://ec.europa.eu/eurostat/databrowser/view/isoc_eb_ai/default/table,2026-09-22
+2024,EU27,13.48,podniky používající alespoň jednu technologii AI,podniky s 10+ zaměstnanci,,Eurostat isoc_eb_ai,https://ec.europa.eu/eurostat/databrowser/view/isoc_eb_ai/default/table,2026-09-22
+2025,EU27,19.95,podniky používající alespoň jednu technologii AI,podniky s 10+ zaměstnanci,od 2025 nová kategorie: generování obrazu videa a zvuku,Eurostat isoc_eb_ai,https://ec.europa.eu/eurostat/databrowser/view/isoc_eb_ai/default/table,2026-09-22
+2021,CZ,4.46,podniky používající alespoň jednu technologii AI,podniky s 10+ zaměstnanci,,Eurostat isoc_eb_ai,https://ec.europa.eu/eurostat/databrowser/view/isoc_eb_ai/default/table,2026-09-22
+2023,CZ,5.90,podniky používající alespoň jednu technologii AI,podniky s 10+ zaměstnanci,2022 se neměřilo,Eurostat isoc_eb_ai,https://ec.europa.eu/eurostat/databrowser/view/isoc_eb_ai/default/table,2026-09-22
+2024,CZ,11.26,podniky používající alespoň jednu technologii AI,podniky s 10+ zaměstnanci,,Eurostat isoc_eb_ai,https://ec.europa.eu/eurostat/databrowser/view/isoc_eb_ai/default/table,2026-09-22
+2025,CZ,17.60,podniky používající alespoň jednu technologii AI,podniky s 10+ zaměstnanci,od 2025 nová kategorie: generování obrazu videa a zvuku,Eurostat isoc_eb_ai; ČSÚ 21. 1. 2026,https://ec.europa.eu/eurostat/databrowser/view/isoc_eb_ai/default/table,2026-09-22

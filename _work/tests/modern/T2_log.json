@@ -1,0 +1,42 @@
+[
+  {
+    "attempt": 1,
+    "prompt": "Print advertisement poster for a small bakery. A basket of fresh bread rolls on a wooden table in morning light. Large headline at the top: \"Čerstvé rohlíky každé ráno\". Small text at the bottom: \"Pekařství U Mlýna\". Clean modern layout.",
+    "source_path": "/Users/maximkudela/.codex/generated_images/01a0cadd-939d-76f3-8485-beb864173e3a/exec-717b5b7f-8af4-4256-a2d6-1970c38ebd35.png",
+    "pixel_dimensions": {
+      "width": 1024,
+      "height": 1536
+    },
+    "image_model_name": null
+  },
+  {
+    "attempt": 2,
+    "prompt": "Print advertisement poster for a small bakery. A basket of fresh bread rolls on a wooden table in morning light. Large headline at the top: \"Čerstvé rohlíky každé ráno\". Small text at the bottom: \"Pekařství U Mlýna\". Clean modern layout.",
+    "source_path": "/Users/maximkudela/.codex/generated_images/01a0cadd-939d-76f3-8485-beb864173e3a/exec-107ccc5e-6cef-4254-882d-473d0a00bf3d.png",
+    "pixel_dimensions": {
+      "width": 1024,
+      "height": 1536
+    },
+    "image_model_name": null
+  },
+  {
+    "attempt": 3,
+    "prompt": "Print advertisement poster for a small bakery. A basket of fresh bread rolls on a wooden table in morning light. Large headline at the top: \"Čerstvé rohlíky každé ráno\". Small text at the bottom: \"Pekařství U Mlýna\". Clean modern layout.",
+    "source_path": "/Users/maximkudela/.codex/generated_images/01a0cadd-939d-76f3-8485-beb864173e3a/exec-24b802a7-221c-417b-a90a-72ad9ad3efa1.png",
+    "pixel_dimensions": {
+      "width": 1024,
+      "height": 1536
+    },
+    "image_model_name": null
+  },
+  {
+    "attempt": 4,
+    "prompt": "Print advertisement poster for a small bakery. A basket of fresh bread rolls on a wooden table in morning light. Large headline at the top: \"Čerstvé rohlíky každé ráno\". Small text at the bottom: \"Pekařství U Mlýna\". Clean modern layout.",
+    "source_path": "/Users/maximkudela/.codex/generated_images/01a0cadd-939d-76f3-8485-beb864173e3a/exec-45b936c4-1173-46a6-9d69-0a97575b178e.png",
+    "pixel_dimensions": {
+      "width": 1024,
+      "height": 1536
+    },
+    "image_model_name": null
+  }
+]

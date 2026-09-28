@@ -1,0 +1,7 @@
+Tři údaje z publikací vydaných v letech **2025–2026**. Všechny jsem ověřil přímo u původce; měření ale končí rokem 2024, nejde o stav trhu v roce 2026.
+
+| Údaj pro český trh | Období | Kdo ho zjistil a původní zdroj | Využití pro ZÁTOKU |
+|---|---|---|---|
+| **85,9 litru limonád na obyvatele ročně** | 2024 | **ČSÚ**, [Spotřeba potravin, tabulka 1, str. 5](https://csu.gov.cz/docs/107508/0d4b011d-0f8d-28cf-5155-e189d7061c70/2701392501.pdf?version=1.0), vydáno 1. 12. 2025. | Ukazuje velikost zavedené kategorie, ve které může kampaň vybízet k vyzkoušení bylinné příchuti. |
+| **O 38 % vzrostly maloobchodní ceny nealkoholických nápojů** | Šetření leden 2020 až červen 2024 | **ÚOHS**, [výsledky sektorového šetření](https://uohs.gov.cz/cs/informacni-centrum/tiskove-zpravy/hospodarska-soutez/4518-sektor-nealkoholickych-napoju-rozruznene-trhy-vyssi-obchodni-prirazky-i-oslabovani-nejsilnejsich-hracu.html), zveřejněno 8. 4. 2026. | Pro brief je to důvod jasně vysvětlit hodnotu ZÁTOKY vzhledem k její ceně. |
+| **Přibližně 65–75 % maloobchodních tržeb za nealkoholické nápoje** připadalo dohromady na Albert, Lidl, Kaufland, Penny a Makro | Šetření leden 2020 až červen 2024 | **ÚOHS**, [výsledky sektorového šetření](https://uohs.gov.cz/cs/informacni-centrum/tiskove-zpravy/hospodarska-soutez/4518-sektor-nealkoholickych-napoju-rozruznene-trhy-vyssi-obchodni-prirazky-i-oslabovani-nejsilnejsich-hracu.html), zveřejněno 8. 4. 2026. | Podporuje propojení kampaně s dostupností v konkrétních prodejnách a s podporou prodeje u obchodníků. |

@@ -1,0 +1,42 @@
+[
+  {
+    "file": "T1_attempt1.png",
+    "prompt": "Advertising product photo: a clear glass bottle of lemonade with a simple paper label that reads \"ZÁTOKA\", standing on a wet stone ledge by a lake at golden hour, condensation droplets on the glass, lemons beside it, shallow depth of field, professional commercial photography.",
+    "source_path": "/Users/maximkudela/.codex/generated_images/01a0cada-9b4d-7813-89b8-3ccf54e95ccf/exec-31f748cb-3272-42c3-9530-7c001c6aca10.png",
+    "pixel_dimensions": {
+      "width": 1145,
+      "height": 1374
+    },
+    "image_model": null
+  },
+  {
+    "file": "T1_attempt2.png",
+    "prompt": "Advertising product photo: a clear glass bottle of lemonade with a simple paper label that reads \"ZÁTOKA\", standing on a wet stone ledge by a lake at golden hour, condensation droplets on the glass, lemons beside it, shallow depth of field, professional commercial photography.",
+    "source_path": "/Users/maximkudela/.codex/generated_images/01a0cada-9b4d-7813-89b8-3ccf54e95ccf/exec-0680d724-cbac-4b94-9a7b-43470dfe3f48.png",
+    "pixel_dimensions": {
+      "width": 1145,
+      "height": 1374
+    },
+    "image_model": null
+  },
+  {
+    "file": "T1_attempt3.png",
+    "prompt": "Advertising product photo: a clear glass bottle of lemonade with a simple paper label that reads \"ZÁTOKA\", standing on a wet stone ledge by a lake at golden hour, condensation droplets on the glass, lemons beside it, shallow depth of field, professional commercial photography.",
+    "source_path": "/Users/maximkudela/.codex/generated_images/01a0cada-9b4d-7813-89b8-3ccf54e95ccf/exec-ba8513d8-eee1-47d5-923b-5362f2d07fef.png",
+    "pixel_dimensions": {
+      "width": 1145,
+      "height": 1374
+    },
+    "image_model": null
+  },
+  {
+    "file": "T1_attempt4.png",
+    "prompt": "Advertising product photo: a clear glass bottle of lemonade with a simple paper label that reads \"ZÁTOKA\", standing on a wet stone ledge by a lake at golden hour, condensation droplets on the glass, lemons beside it, shallow depth of field, professional commercial photography.",
+    "source_path": "/Users/maximkudela/.codex/generated_images/01a0cada-9b4d-7813-89b8-3ccf54e95ccf/exec-3c4801df-9179-4f66-8306-4f80bed2247d.png",
+    "pixel_dimensions": {
+      "width": 1145,
+      "height": 1374
+    },
+    "image_model": null
+  }
+]

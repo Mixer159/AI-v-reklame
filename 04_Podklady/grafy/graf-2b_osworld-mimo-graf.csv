@@ -1,0 +1,7 @@
+poznamka,datum,model,organizace,hodnota_procent,proc_neni_v_grafu,zdroj_url
+změněná metodika,2026-05-28,Claude Opus 4.8,Anthropic,83.4,Anthropic změnil způsob spuštění testu; nesrovnatelné s předchozími body,https://www.anthropic.com/news/claude-opus-4-8
+OSWorld 2.0 (dlouhé úlohy),2026-09-17,Claude Opus 5 (max; verze testu v2.1),hodnotí autoři testu,44.33,"jiný test: dokončené dlouhé úlohy (medián 1,6 h pro člověka); uvedeno jako samostatné číslo",https://osworld-v2.xlang.ai/
+OSWorld 2.0 (dlouhé úlohy),2026-09-17,Claude Opus 5 (max; verze testu v2026.08.08),hodnotí autoři testu,31.43,jiný test,https://osworld-v2.xlang.ai/
+OSWorld 2.0 (dlouhé úlohy),2026-09-17,GPT-5.6 Sol (max; verze testu v2026.08.08),hodnotí autoři testu,27.34,jiný test,https://osworld-v2.xlang.ai/
+OSWorld 2.0 částečné skóre (výrobce),2026-09-03,GPT-6 Astra,OpenAI,72.6,částečné skóre; offline sada; nastavení výrobce,https://openai.com/index/gpt-6-astra/
+OSWorld 2.0 částečné skóre (výrobce),2026-09-22,Claude Opus 5.5,Anthropic,81.8,částečné skóre; nastavení výrobce; nesrovnatelné s OpenAI,https://www.anthropic.com/claude-opus-5-5

@@ -1,0 +1,42 @@
+[
+  {
+    "attempt": 1,
+    "prompt": "Advertising photo for a bike-sharing service: a young woman in a yellow rain jacket rides a city bike through a cobblestone street in Prague's Old Town, one hand on the handlebar and the other holding a paper coffee cup, smiling, natural daylight, shot on a 50mm lens.",
+    "source_path": "/Users/maximkudela/.codex/generated_images/01a0cae0-9cbf-7503-b4ea-220c5ff32d66/exec-44b4bf3a-ce0f-4337-8850-8590d83c7093.png",
+    "pixel_dimensions": {
+      "width": 1370,
+      "height": 1148
+    },
+    "image_model_name": null
+  },
+  {
+    "attempt": 2,
+    "prompt": "Advertising photo for a bike-sharing service: a young woman in a yellow rain jacket rides a city bike through a cobblestone street in Prague's Old Town, one hand on the handlebar and the other holding a paper coffee cup, smiling, natural daylight, shot on a 50mm lens.",
+    "source_path": "/Users/maximkudela/.codex/generated_images/01a0cae0-9cbf-7503-b4ea-220c5ff32d66/exec-69c4dd8a-96f8-47f2-9d8e-bb133c250ed1.png",
+    "pixel_dimensions": {
+      "width": 1370,
+      "height": 1148
+    },
+    "image_model_name": null
+  },
+  {
+    "attempt": 3,
+    "prompt": "Advertising photo for a bike-sharing service: a young woman in a yellow rain jacket rides a city bike through a cobblestone street in Prague's Old Town, one hand on the handlebar and the other holding a paper coffee cup, smiling, natural daylight, shot on a 50mm lens.",
+    "source_path": "/Users/maximkudela/.codex/generated_images/01a0cae0-9cbf-7503-b4ea-220c5ff32d66/exec-bad6b8f8-8737-488c-8df6-8daed3299502.png",
+    "pixel_dimensions": {
+      "width": 1370,
+      "height": 1148
+    },
+    "image_model_name": null
+  },
+  {
+    "attempt": 4,
+    "prompt": "Advertising photo for a bike-sharing service: a young woman in a yellow rain jacket rides a city bike through a cobblestone street in Prague's Old Town, one hand on the handlebar and the other holding a paper coffee cup, smiling, natural daylight, shot on a 50mm lens.",
+    "source_path": "/Users/maximkudela/.codex/generated_images/01a0cae0-9cbf-7503-b4ea-220c5ff32d66/exec-8a79e789-67cc-41b9-a244-d38a5d6792dc.png",
+    "pixel_dimensions": {
+      "width": 1370,
+      "height": 1148
+    },
+    "image_model_name": null
+  }
+]

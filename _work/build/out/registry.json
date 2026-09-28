@@ -1,0 +1,2422 @@
+{
+ "S": {
+  "silverside": {
+   "short": "Silverside AI",
+   "title": "Coca-Cola Holidays 2024 (případová studie)",
+   "pub": "Silverside AI",
+   "date": "2024 (stránka bez data)",
+   "url": "https://www.silverside.ai/projects/coca-cola",
+   "type": "maker"
+  },
+  "mbrew_coke": {
+   "short": "Marketing Brew 21. 11. 2024",
+   "title": "Inside the making of one of Coca-Cola’s controversial holiday commercials",
+   "pub": "Marketing Brew",
+   "date": "21. 11. 2024",
+   "url": "https://www.marketingbrew.com/stories/2024/11/21/inside-the-making-of-one-of-coca-cola-s-controversial-holiday-commercials",
+   "type": "secondary"
+  },
+  "nbc_coke": {
+   "short": "NBC News 18. 11. 2024",
+   "title": "Coca-Cola causes controversy with AI-generated ad",
+   "pub": "NBC News",
+   "date": "18. 11. 2024",
+   "url": "https://www.nbcnews.com/tech/innovation/coca-cola-causes-controversy-ai-made-ad-rcna180665",
+   "type": "secondary"
+  },
+  "coke2025": {
+   "short": "Coca-Cola 3. 11. 2025",
+   "title": "Coca-Cola Refreshes Givers of the Season, Embraces AI-Powered Storytelling",
+   "pub": "The Coca-Cola Company",
+   "date": "3. 11. 2025",
+   "url": "https://www.coca-colacompany.com/media-center/coca-cola-refreshes-givers-of-the-season-embraces-ai-powered-storytelling-in-global-holiday-campaign",
+   "type": "maker"
+  },
+  "futurism_coke": {
+   "short": "Futurism 5. 11. 2025",
+   "title": "Coke’s New AI-Generated Ad Required 100 Staff and 70,000 AI-Generated Clips, and It Still Looks Like Garbage",
+   "pub": "Futurism / Frank Landymore",
+   "date": "5. 11. 2025",
+   "url": "https://futurism.com/artificial-intelligence/coke-ai-holiday-ad",
+   "type": "secondary"
+  },
+  "system1": {
+   "short": "System1 20. 11. 2025",
+   "title": "AI or No AI, Coke Gets the Christmas Love",
+   "pub": "System1 / Tom Ewing",
+   "date": "20. 11. 2025",
+   "url": "https://system1group.com/ad-of-the-week/ai-or-no-ai-coke-gets-the-christmas-love",
+   "type": "primary"
+  },
+  "npr_kalshi": {
+   "short": "NPR 23. 6. 2025",
+   "title": "An AI video ad is making a splash. Is it the future of advertising?",
+   "pub": "NPR / Bill Chappell",
+   "date": "23. 6. 2025",
+   "url": "https://www.npr.org/2025/06/23/nx-s1-5432712/ai-video-ad-kalshi-advertising-nba-finals",
+   "type": "secondary"
+  },
+  "nbc_mcd": {
+   "short": "NBC News 11. 12. 2025",
+   "title": "Not lovin’ it: McDonald’s pulls AI-generated Christmas ad after social media backlash",
+   "pub": "NBC News / Elmira Aliieva",
+   "date": "11. 12. 2025",
+   "url": "https://www.nbcnews.com/world/europe/mcdonalds-ai-generated-christmas-advert-social-media-backlash-rcna248590",
+   "type": "secondary"
+  },
+  "commons_mcd": {
+   "short": "Wikimedia Commons",
+   "title": "It’s the Most Terrible Time of the Year.webm (kopie reklamy)",
+   "pub": "Wikimedia Commons",
+   "date": "2025",
+   "url": "https://commons.wikimedia.org/wiki/File:It%27s_the_Most_Terrible_Time_of_the_Year.webm",
+   "type": "primary"
+  },
+  "euronews_aitana": {
+   "short": "Euronews",
+   "title": "This Spanish AI model earns up to €10,000 a month",
+   "pub": "Euronews / Laura Llach",
+   "date": "22. 11. 2023, aktualizováno 27. 12. 2024",
+   "url": "https://www.euronews.com/next/2024/12/27/meet-the-first-spanish-ai-model-earning-up-to-10000-per-month",
+   "type": "secondary"
+  },
+  "ig_aitana": {
+   "short": "Instagram @fit_aitana",
+   "title": "Profil @fit_aitana (404 tis. sledujících)",
+   "pub": "Instagram",
+   "date": "staženo 22. 9. 2026",
+   "url": "https://www.instagram.com/fit_aitana/",
+   "type": "primary"
+  },
+  "magalu_pr": {
+   "short": "Magazine Luiza 1. 7. 2024",
+   "title": "Lu, do Magalu, ganha visual mais realista, com matriz 3D",
+   "pub": "Magazine Luiza",
+   "date": "1. 7. 2024",
+   "url": "https://ri.magazineluiza.com.br/Download.aspx?Arquivo=SaqC4WBAGPXST31V62qWtA%3D%3D",
+   "type": "maker"
+  },
+  "ogilvy_lu": {
+   "short": "Ogilvy",
+   "title": "Lu from Magalu (případová studie)",
+   "pub": "Ogilvy",
+   "date": "bez data",
+   "url": "https://www.ogilvy.com/work/lu-magalu",
+   "type": "maker"
+  },
+  "ig_magalu": {
+   "short": "Instagram @magazineluiza",
+   "title": "Profil @magazineluiza (10 mil. sledujících)",
+   "pub": "Instagram",
+   "date": "staženo 22. 9. 2026",
+   "url": "https://www.instagram.com/magazineluiza/",
+   "type": "primary"
+  },
+  "hm_group": {
+   "short": "H&M Group 2. 7. 2025",
+   "title": "H&M continues its exploration of creativity with AI",
+   "pub": "H&M Group",
+   "date": "2. 7. 2025",
+   "url": "https://hmgroup.com/news/hm-continues-its-exploration-of-creativity-with-ai/",
+   "type": "maker"
+  },
+  "pex_hm": {
+   "short": "PEX Network 28. 3. 2025",
+   "title": "H&M will use AI to create digital twins of fashion models",
+   "pub": "PEX Network (cituje Business of Fashion)",
+   "date": "28. 3. 2025",
+   "url": "https://www.processexcellencenetwork.com/ai/news/hm-ai-digital-twins",
+   "type": "secondary"
+  },
+  "zendrop": {
+   "short": "Zendrop",
+   "title": "AI Ad Generator",
+   "pub": "Zendrop",
+   "date": "staženo 22. 9. 2026",
+   "url": "https://www.zendrop.com/ai-ad-generator/",
+   "type": "maker"
+  },
+  "futurism_nyt": {
+   "short": "Futurism 26. 7. 2026 (o NYT)",
+   "title": "Meta Is Letting Fake AI-Generated Doctors Sell Quack Cures on Its Platforms",
+   "pub": "Futurism / Frank Landymore, o vyšetřování The New York Times",
+   "date": "26. 7. 2026",
+   "url": "https://futurism.com/artificial-intelligence/meta-ai-doctors-quake-cures",
+   "type": "secondary"
+  },
+  "media404": {
+   "short": "404 Media 30. 7. 2026",
+   "title": "Inside an AI TikTok Shop Slop Factory That Shills Supplements Recalled by the FDA",
+   "pub": "404 Media / Jason Koebler",
+   "date": "30. 7. 2026",
+   "url": "https://www.404media.co/inside-an-ai-tiktok-shop-slop-factory-that-shills-supplements-recalled-by-the-fda/",
+   "type": "secondary"
+  },
+  "dartmouth": {
+   "short": "Dartmouth 1955",
+   "title": "A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence",
+   "pub": "McCarthy, Minsky, Rochester, Shannon",
+   "date": "31. 8. 1955",
+   "url": "http://jmc.stanford.edu/articles/dartmouth/dartmouth.pdf",
+   "type": "primary"
+  },
+  "adx2009": {
+   "short": "Google 17. 9. 2009",
+   "title": "Announcing the new DoubleClick Ad Exchange",
+   "pub": "Google",
+   "date": "17. 9. 2009",
+   "url": "https://adwords.googleblog.com/2009/09/announcing-new-doubleclick-ad-exchange.html",
+   "type": "primary"
+  },
+  "smartbid2016": {
+   "short": "Google 25. 7. 2016",
+   "title": "Get more powerful bid automation with new AdWords Smart Bidding",
+   "pub": "Google / Anthony Chavez",
+   "date": "25. 7. 2016",
+   "url": "https://blog.google/products-and-platforms/products/ads/more-powerful-bid-automation-with-smart-bidding/",
+   "type": "primary"
+  },
+  "chatgpt2022": {
+   "short": "OpenAI 30. 11. 2022",
+   "title": "Introducing ChatGPT",
+   "pub": "OpenAI",
+   "date": "30. 11. 2022",
+   "url": "https://openai.com/index/chatgpt",
+   "type": "primary"
+  },
+  "dalle2paper": {
+   "short": "Ramesh a kol. 2022, CC BY 4.0",
+   "title": "Hierarchical Text-Conditional Image Generation with CLIP Latents (DALL-E 2), obr. 16",
+   "pub": "Ramesh, Dhariwal, Nichol, Chu, Chen (OpenAI), arXiv 2204.06125",
+   "date": "13. 4. 2022",
+   "url": "https://arxiv.org/abs/2204.06125",
+   "type": "research"
+  },
+  "adweek_heinz": {
+   "short": "Adweek 1. 8. 2022",
+   "title": "Heinz Taps State-of-the-Art AI to Design Its Next Ad Campaign",
+   "pub": "Adweek / Patrick Kulp",
+   "date": "1. 8. 2022",
+   "url": "https://www.adweek.com/commerce/heinz-taps-ai-design-next-ad-campaign/",
+   "type": "secondary"
+  },
+  "pope_reddit": {
+   "short": "Reddit 24. 3. 2023 (archiv)",
+   "title": "The Pope Drip (r/midjourney, u/trippy_art_special)",
+   "pub": "Reddit, archivní kopie Wayback Machine",
+   "date": "24. 3. 2023",
+   "url": "https://web.archive.org/web/20230325175224/https://www.reddit.com/r/midjourney/comments/120vhdc/the_pope_drip/",
+   "type": "primary"
+  },
+  "verge_pope": {
+   "short": "The Verge 27. 3. 2023",
+   "title": "The swagged-out pope is an AI fake — and an early glimpse of a new reality",
+   "pub": "The Verge / James Vincent",
+   "date": "27. 3. 2023",
+   "url": "https://www.theverge.com/2023/3/27/23657927/ai-pope-image-fake-midjourney-computer-generated-aesthetic",
+   "type": "secondary"
+  },
+  "sdxl": {
+   "short": "Stability AI 26. 7. 2023",
+   "title": "Announcing SDXL 1.0",
+   "pub": "Stability AI",
+   "date": "26. 7. 2023",
+   "url": "https://stability.ai/news/stable-diffusion-sdxl-1-announcement",
+   "type": "primary"
+  },
+  "anth_cu2024": {
+   "short": "Anthropic 22. 10. 2024",
+   "title": "Introducing computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku",
+   "pub": "Anthropic",
+   "date": "22. 10. 2024",
+   "url": "https://www.anthropic.com/news/3-5-models-and-computer-use",
+   "type": "maker"
+  },
+  "dreambooth": {
+   "short": "Ruiz a kol. 2022",
+   "title": "DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation",
+   "pub": "Ruiz a kol. (Google Research), arXiv 2208.12242",
+   "date": "25. 8. 2022",
+   "url": "https://arxiv.org/abs/2208.12242",
+   "type": "research"
+  },
+  "ws2023": {
+   "short": "Reddit 27. 3. 2023 / Commons",
+   "title": "Will Smith eating spaghetti (ModelScope text2video, u/chaindrop)",
+   "pub": "Reddit (archiv) a Wikimedia Commons",
+   "date": "27. 3. 2023",
+   "url": "https://commons.wikimedia.org/wiki/File:Will_Smith_Eating_Spaghetti_Original.webm",
+   "type": "primary"
+  },
+  "ws2025": {
+   "short": "PetaPixel 28. 5. 2025",
+   "title": "Google’s Veo 3 Nails the Infamous Will Smith Eating Spaghetti Test",
+   "pub": "PetaPixel / Pesala Bandara (klip: Javi Lopez, 22. 5. 2025)",
+   "date": "28. 5. 2025",
+   "url": "https://petapixel.com/2025/05/28/googles-veo-3-nails-the-infamous-will-smith-eating-spaghetti-test/",
+   "type": "secondary"
+  },
+  "commons_veo3": {
+   "short": "Wikimedia Commons",
+   "title": "Will Smith eating spaghetti Google Veo 3.webm",
+   "pub": "Wikimedia Commons (soubor navržen ke smazání 15. 7. 2026)",
+   "date": "22. 5. 2025",
+   "url": "https://commons.wikimedia.org/wiki/File:Will_Smith_eating_spaghetti_Google_Veo_3.webm",
+   "type": "primary"
+  },
+  "veo3": {
+   "short": "Google 20. 5. 2025",
+   "title": "Fuel your creativity with new generative media models and tools (Veo 3)",
+   "pub": "Google",
+   "date": "20. 5. 2025",
+   "url": "https://blog.google/technology/ai/generative-media-models-io-2025/",
+   "type": "maker"
+  },
+  "eurostat_ent": {
+   "short": "Eurostat isoc_eb_ai",
+   "title": "Artificial intelligence by size class of enterprise (isoc_eb_ai); zpráva „20% of EU enterprises use AI technologies“",
+   "pub": "Eurostat",
+   "date": "zpráva 11. 12. 2025, data 15. 6. 2026",
+   "url": "https://ec.europa.eu/eurostat/databrowser/view/isoc_eb_ai/default/table",
+   "type": "official"
+  },
+  "csu_ent": {
+   "short": "ČSÚ 21. 1. 2026",
+   "title": "Využívání ICT v podnikatelském sektoru 2025, kap. 10 Umělá inteligence",
+   "pub": "Český statistický úřad",
+   "date": "21. 1. 2026",
+   "url": "https://csu.gov.cz/docs/107508/b09756a7-a39c-9eb9-b845-b69c4d89bd8d/06200525a10a.pdf",
+   "type": "official"
+  },
+  "eurostat_ind": {
+   "short": "Eurostat isoc_ai_iaiu",
+   "title": "Individuals using generative AI tools (isoc_ai_iaiu); zpráva „32.7% of EU people used generative AI tools in 2025“",
+   "pub": "Eurostat",
+   "date": "zpráva 16. 12. 2025, data 5. 6. 2026",
+   "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20251216-3",
+   "type": "official"
+  },
+  "iab_gap": {
+   "short": "IAB 15. 1. 2026",
+   "title": "The AI Ad Gap Widens",
+   "pub": "IAB se Sonata Insights",
+   "date": "15. 1. 2026",
+   "url": "https://www.iab.com/insights/the-ai-gap-widens/",
+   "type": "primary"
+  },
+  "ressolution": {
+   "short": "MediaGuru 21. 5. 2026",
+   "title": "Důvěru k AI reklamám si Češi zatím hledají. Chtějí, aby byla transparentní (průzkum ResSolution Group)",
+   "pub": "MediaGuru",
+   "date": "21. 5. 2026",
+   "url": "https://www.mediaguru.cz/duveru-k-ai-reklamam-si-cesi-zatim-hledaji-chteji-aby-byla-transparentni",
+   "type": "secondary"
+  },
+  "aka2024": {
+   "short": "AKA 21. 11. 2024",
+   "title": "AI nástroje v komunikačních agenturách mění jejich práci",
+   "pub": "AKA a APRA",
+   "date": "21. 11. 2024",
+   "url": "https://www.aka.cz/clanek/ai-nastroje-v-komunikacnich-agenturach-meni-jejich-praci/",
+   "type": "primary"
+  },
+  "anth_opus55": {
+   "short": "Anthropic 22. 9. 2026",
+   "title": "Introducing Claude Opus 5.5",
+   "pub": "Anthropic",
+   "date": "22. 9. 2026",
+   "url": "https://www.anthropic.com/claude-opus-5-5",
+   "type": "maker"
+  },
+  "anth_noimg": {
+   "short": "Anthropic Help",
+   "title": "Can Claude produce images?",
+   "pub": "Anthropic",
+   "date": "aktualizováno 16. 3. 2026",
+   "url": "https://support.claude.com/en/articles/9002504-can-claude-produce-images",
+   "type": "maker"
+  },
+  "oai_astra": {
+   "short": "OpenAI 3. 9. 2026",
+   "title": "GPT-6 Astra: A new generation of intelligence",
+   "pub": "OpenAI",
+   "date": "3. 9. 2026",
+   "url": "https://openai.com/index/gpt-6-astra/",
+   "type": "maker"
+  },
+  "oai_gpt6pro": {
+   "short": "OpenAI Help",
+   "title": "GPT-5.6 and GPT-6 Pro in ChatGPT",
+   "pub": "OpenAI Help Center",
+   "date": "aktualizováno cca 16. 9. 2026, staženo 22. 9. 2026",
+   "url": "https://help.openai.com/en/articles/20001354-gpt-56-in-chatgpt",
+   "type": "maker"
+  },
+  "oai_images25": {
+   "short": "OpenAI 8. 9. 2026",
+   "title": "Introducing ChatGPT Images 2.5",
+   "pub": "OpenAI",
+   "date": "8. 9. 2026",
+   "url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+   "type": "maker"
+  },
+  "zapier_ab": {
+   "short": "Zapier AutomationBench",
+   "title": "AutomationBench: AI Agent Benchmarks (žebříček, verze 1.0.6)",
+   "pub": "Zapier",
+   "date": "staženo 22. 9. 2026",
+   "url": "https://zapier.com/benchmarks",
+   "type": "primary"
+  },
+  "osworld_paper": {
+   "short": "Xie a kol. 2024",
+   "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+   "pub": "Xie a kol., arXiv 2404.07972",
+   "date": "11. 4. 2024",
+   "url": "https://arxiv.org/abs/2404.07972",
+   "type": "research"
+  },
+  "oai_cua": {
+   "short": "OpenAI 23. 1. 2025",
+   "title": "Computer-Using Agent",
+   "pub": "OpenAI",
+   "date": "23. 1. 2025",
+   "url": "https://openai.com/index/computer-using-agent/",
+   "type": "maker"
+  },
+  "anth_sonnet45": {
+   "short": "Anthropic 29. 9. 2025",
+   "title": "Introducing Claude Sonnet 4.5",
+   "pub": "Anthropic",
+   "date": "29. 9. 2025",
+   "url": "https://www.anthropic.com/news/claude-sonnet-4-5",
+   "type": "maker"
+  },
+  "xlang_verified": {
+   "short": "XLANG 28. 7. 2025",
+   "title": "Introducing OSWorld-Verified",
+   "pub": "XLANG Lab",
+   "date": "28. 7. 2025",
+   "url": "https://xlang.ai/blog/osworld-verified",
+   "type": "primary"
+  },
+  "anth_opus45": {
+   "short": "Anthropic 24. 11. 2025",
+   "title": "Introducing Claude Opus 4.5",
+   "pub": "Anthropic",
+   "date": "24. 11. 2025",
+   "url": "https://www.anthropic.com/news/claude-opus-4-5",
+   "type": "maker"
+  },
+  "anth_opus46": {
+   "short": "Anthropic 5. 2. 2026",
+   "title": "Introducing Claude Opus 4.6",
+   "pub": "Anthropic",
+   "date": "5. 2. 2026",
+   "url": "https://www.anthropic.com/news/claude-opus-4-6",
+   "type": "maker"
+  },
+  "oai_gpt54": {
+   "short": "OpenAI 5. 3. 2026",
+   "title": "Introducing GPT-5.4",
+   "pub": "OpenAI",
+   "date": "5. 3. 2026",
+   "url": "https://openai.com/index/introducing-gpt-5-4/",
+   "type": "maker"
+  },
+  "anth_opus47": {
+   "short": "Anthropic 16. 4. 2026",
+   "title": "Introducing Claude Opus 4.7",
+   "pub": "Anthropic",
+   "date": "16. 4. 2026",
+   "url": "https://www.anthropic.com/news/claude-opus-4-7",
+   "type": "maker"
+  },
+  "oai_gpt55": {
+   "short": "OpenAI 23. 4. 2026",
+   "title": "Introducing GPT-5.5",
+   "pub": "OpenAI",
+   "date": "23. 4. 2026",
+   "url": "https://openai.com/index/introducing-gpt-5-5/",
+   "type": "maker"
+  },
+  "anth_opus48": {
+   "short": "Anthropic 28. 5. 2026",
+   "title": "Introducing Claude Opus 4.8",
+   "pub": "Anthropic",
+   "date": "28. 5. 2026",
+   "url": "https://www.anthropic.com/news/claude-opus-4-8",
+   "type": "maker"
+  },
+  "osworld2": {
+   "short": "OSWorld 2.0, 17. 9. 2026",
+   "title": "OSWorld 2.0: Benchmarking computer-use agents on long-horizon real-world tasks (žebříček)",
+   "pub": "XLANG Lab",
+   "date": "aktualizace 17. 9. 2026",
+   "url": "https://osworld-v2.xlang.ai/",
+   "type": "primary"
+  },
+  "g_aimax": {
+   "short": "Google Ads Help",
+   "title": "About AI Max for Search campaigns",
+   "pub": "Google",
+   "date": "staženo 22. 9. 2026",
+   "url": "https://support.google.com/google-ads/answer/15910366",
+   "type": "maker"
+  },
+  "g_textcust": {
+   "short": "Google Ads Help",
+   "title": "About text customization in Search campaigns",
+   "pub": "Google",
+   "date": "staženo 22. 9. 2026",
+   "url": "https://support.google.com/google-ads/answer/11259373",
+   "type": "maker"
+  },
+  "g_demandgen": {
+   "short": "Google Ads Help",
+   "title": "About creative enhancements and generative AI tools in Demand Gen",
+   "pub": "Google",
+   "date": "staženo 22. 9. 2026",
+   "url": "https://support.google.com/google-ads/answer/15701616",
+   "type": "maker"
+  },
+  "m_advcreative": {
+   "short": "Meta Business Help",
+   "title": "About Advantage+ Creative",
+   "pub": "Meta",
+   "date": "staženo 22. 9. 2026",
+   "url": "https://www.facebook.com/business/help/297506218282224",
+   "type": "maker"
+  },
+  "m_q2_2026": {
+   "short": "Meta Q2 2026",
+   "title": "Q2 2026 Earnings Call Transcript",
+   "pub": "Meta Platforms",
+   "date": "29. 7. 2026",
+   "url": "https://s21.q4cdn.com/399680738/files/doc_financials/2026/q2/META-Q2-2026-Earnings-Call-Transcript.pdf",
+   "type": "maker"
+  },
+  "sklik_chytra": {
+   "short": "Seznam 5. 5. 2026",
+   "title": "Nechte Chytrou kampaň pracovat za vás",
+   "pub": "Blog Seznam.cz",
+   "date": "5. 5. 2026",
+   "url": "https://blog.seznam.cz/2026/05/nechte-chytrou-kampan-pracovat-za-vas/",
+   "type": "maker"
+  },
+  "sklik_help": {
+   "short": "Sklik Nápověda",
+   "title": "Chytrá kampaň",
+   "pub": "Seznam.cz",
+   "date": "staženo 22. 9. 2026",
+   "url": "https://napoveda.sklik.cz/kampane-a-sestavy/typy-kampani/chytra-kampan/",
+   "type": "maker"
+  },
+  "smec_aimax": {
+   "short": "smec 23. 3. 2026",
+   "title": "The Ultimate Guide to AI Max for Google Search",
+   "pub": "Smarter Ecommerce",
+   "date": "23. 3. 2026",
+   "url": "https://smarter-ecommerce.com/blog/en/google-ads/the-ultimate-guide-to-ai-max-for-google-search/",
+   "type": "primary"
+  },
+  "m_mcp_tools": {
+   "short": "Meta for Developers",
+   "title": "Ads MCP Server: Ad creation and management tools",
+   "pub": "Meta",
+   "date": "aktualizováno 14. 7. 2026",
+   "url": "https://developers.facebook.com/documentation/ads-commerce/ads-ai-connectors/ads-mcp-server/ads-mcp-server-tools-ad-creation-and-management",
+   "type": "maker"
+  },
+  "m_mcp_help": {
+   "short": "Meta Business Help",
+   "title": "Manage Ads from an AI Agent with Meta Ads AI connectors",
+   "pub": "Meta",
+   "date": "staženo 22. 9. 2026",
+   "url": "https://www.facebook.com/business/help/1456422242197840",
+   "type": "maker"
+  },
+  "g_mcp": {
+   "short": "Google for Developers",
+   "title": "Google Ads MCP server: Developer integration guide",
+   "pub": "Google",
+   "date": "aktualizováno 11. 9. 2026",
+   "url": "https://developers.google.com/google-ads/api/docs/developer-toolkit/mcp-server",
+   "type": "maker"
+  },
+  "a_chrome": {
+   "short": "Anthropic Help",
+   "title": "Claude in Chrome permissions guide",
+   "pub": "Anthropic",
+   "date": "12. 8. 2026",
+   "url": "https://support.claude.com/en/articles/12902446-claude-in-chrome-permissions-guide",
+   "type": "maker"
+  },
+  "o_cloudbrowser": {
+   "short": "OpenAI Help",
+   "title": "Using cloud browser in ChatGPT",
+   "pub": "OpenAI",
+   "date": "staženo 22. 9. 2026",
+   "url": "https://help.openai.com/en/articles/20001280-using-cloud-browser-in-chatgpt",
+   "type": "maker"
+  },
+  "zapier_int": {
+   "short": "Zapier",
+   "title": "Google Ads a Facebook Lead Ads integrations",
+   "pub": "Zapier",
+   "date": "staženo 22. 9. 2026",
+   "url": "https://zapier.com/apps/google-ads/integrations",
+   "type": "maker"
+  },
+  "mediar_rohlik": {
+   "short": "Médiář 26. 11. 2025",
+   "title": "Rohlik.cz má vánoční spot za deset tisíc korun, kompletně generovaný AI",
+   "pub": "Médiář",
+   "date": "26. 11. 2025",
+   "url": "https://www.mediar.cz/galerie-reklamy/rohlik-cz-ma-vanocni-spot-za-deset-tisic-korun-kompletne-generovany-ai/",
+   "type": "secondary"
+  },
+  "cc_rohlik": {
+   "short": "CzechCrunch 26. 11. 2025",
+   "title": "Loni stálo vánoční video Rohlíku 7 milionů, letos stačil jeden člověk, umělá inteligence a 10 tisíc korun",
+   "pub": "CzechCrunch",
+   "date": "26. 11. 2025",
+   "url": "https://cc.cz/loni-stalo-vanocni-video-rohliku-7-milionu-letos-stacil-jeden-clovek-umela-inteligence-a-10-tisic-korun/",
+   "type": "secondary"
+  },
+  "commons_car": {
+   "short": "JiriMatejicek, CC BY-SA 3.0",
+   "title": "Praha Třebešín Zvěřinova auto Rohlík.jpg",
+   "pub": "JiriMatejicek, Wikimedia Commons",
+   "date": "pořízeno 10. 2. 2022",
+   "url": "https://commons.wikimedia.org/wiki/File:Praha_Trebesin_Zverinova_auto_Rohlik.jpg",
+   "type": "primary"
+  },
+  "focus_princ": {
+   "short": "Focus Age 11. 2. 2026",
+   "title": "Petr Princ: AI v TV reklamě už stačí na opičárnu, která prodává",
+   "pub": "Focus Age Marketing Journal / Petr Michl",
+   "date": "11. 2. 2026",
+   "url": "https://www.focus-age.cz/m-journal/aktuality/petr-princ--ai-v-tv-reklame-uz-staci-na-opicarnu--ktera-prodava__s288x17910.html",
+   "type": "secondary"
+  },
+  "mg_epoj": {
+   "short": "MediaGuru 27. 3. 2025",
+   "title": "Srovnávač ePojisteni.cz nechal TV kampaň vytvořit AI",
+   "pub": "MediaGuru",
+   "date": "27. 3. 2025",
+   "url": "https://www.mediaguru.cz/clanky/2025/03/srovnavac-epojisteni-cz-nechal-tv-kampan-vytvorit-ai/",
+   "type": "secondary"
+  },
+  "irozhlas_eshop": {
+   "short": "iROZHLAS 31. 3. 2026",
+   "title": "AI fotky nebo videa v reklamách matou zákazníky e-shopů",
+   "pub": "iROZHLAS / Tereza Chlubná",
+   "date": "31. 3. 2026",
+   "url": "https://www.irozhlas.cz/zpravy-domov/ai-fotky-nebo-videa-v-reklamach-matou-zakazniky-e-shopu-domu-jim-prijde-jine-a_2603311740_ako",
+   "type": "secondary"
+  },
+  "o2_blog": {
+   "short": "O2 1. 4. 2026",
+   "title": "O2 s pomocí AI oživuje legendární reklamu Eurotelu",
+   "pub": "O2 Czech Republic / Blanka Vokounová",
+   "date": "1. 4. 2026",
+   "url": "https://blog.o2.cz/o2-s-pomoci-ai-ozivuje-legendarni-reklamu-eurotelu",
+   "type": "maker"
+  },
+  "mediar_o2": {
+   "short": "Médiář 31. 3. 2026",
+   "title": "Ikonický spot Eurotelu je po 28 letech zpět, O2 ho oživuje pomocí umělé inteligence",
+   "pub": "Médiář",
+   "date": "31. 3. 2026",
+   "url": "https://www.mediar.cz/galerie-reklamy/ikonicky-spot-eurotelu-je-po-28-letech-zpet-o2-ho-ozivuje-pomoci-umele-inteligence/",
+   "type": "secondary"
+  },
+  "cc_bata": {
+   "short": "CzechCrunch 18. 3. 2026",
+   "title": "Jen tři lidé a desetina nákladů. Česká obuvnická ikona vytvořila novou kampaň s umělou inteligencí",
+   "pub": "CzechCrunch",
+   "date": "18. 3. 2026",
+   "url": "https://cc.cz/jen-tri-lide-a-desetina-nakladu-ceska-obuvnicka-ikona-vytvorila-novou-kampan-s-umelou-inteligenci/",
+   "type": "secondary"
+  },
+  "mg_livesport": {
+   "short": "MediaGuru 17. 8. 2026",
+   "title": "Livesport nasadí AI avatarku, využije ji pro videa, oznámení i vlastní pořady",
+   "pub": "MediaGuru",
+   "date": "17. 8. 2026",
+   "url": "https://www.mediaguru.cz/livesport-nasadi-ai-avatarku-ailu-vyuzije-ji-pro-videa-oznameni-i-vlastni-porady",
+   "type": "secondary"
+  },
+  "frank2024": {
+   "short": "Frank a kol. 2024",
+   "title": "A Representative Study on Human Detection of Artificially Generated Media Across Countries",
+   "pub": "Frank a kol., IEEE S&P 2024, arXiv 2312.05976",
+   "date": "10. 12. 2023",
+   "url": "https://arxiv.org/abs/2312.05976",
+   "type": "research"
+  },
+  "aiact_faq": {
+   "short": "Evropská komise, FAQ k čl. 50",
+   "title": "Transparency obligations under Article 50 of the AI Act",
+   "pub": "Evropská komise",
+   "date": "staženo 22. 9. 2026",
+   "url": "https://digital-strategy.ec.europa.eu/en/faqs/transparency-obligations-under-article-50-ai-act",
+   "type": "primary"
+  },
+  "eurlex_aiact": {
+   "short": "Nařízení (EU) 2024/1689",
+   "title": "Nařízení (EU) 2024/1689 (AI Act), čl. 50 a 99",
+   "pub": "EUR-Lex",
+   "date": "12. 7. 2024",
+   "url": "https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX:32024R1689",
+   "type": "primary"
+  },
+  "eurlex_omnibus": {
+   "short": "Nařízení (EU) 2026/1744",
+   "title": "Nařízení (EU) 2026/1744 (Digital Omnibus k AI)",
+   "pub": "EUR-Lex",
+   "date": "účinnost 27. 7. 2026",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX%3A32026R1744",
+   "type": "primary"
+  },
+  "oai_prov": {
+   "short": "OpenAI 19. 5. 2026",
+   "title": "Advancing content provenance",
+   "pub": "OpenAI",
+   "date": "19. 5. 2026, aktualizováno 31. 7. 2026",
+   "url": "https://openai.com/index/advancing-content-provenance/",
+   "type": "maker"
+  },
+  "pid_bikes": {
+   "short": "PID",
+   "title": "Sdílená kola (Rekola a Nextbike v Praze)",
+   "pub": "Pražská integrovaná doprava",
+   "date": "staženo 22. 9. 2026",
+   "url": "https://pid.cz/sdilena-kola/",
+   "type": "primary"
+  },
+  "csu_spotreba": {
+   "short": "ČSÚ 1. 12. 2025",
+   "title": "Spotřeba potravin 2024 (tisková zpráva a tabulky)",
+   "pub": "Český statistický úřad",
+   "date": "1. 12. 2025",
+   "url": "https://csu.gov.cz/produkty/v-cesku-roste-spotreba-masa-syru-a-zeleniny-klesa-spotreba-alkoholu",
+   "type": "official"
+  },
+  "uohs_nealko": {
+   "short": "ÚOHS 8. 4. 2026",
+   "title": "Sektor nealkoholických nápojů: rozrůzněné trhy, vyšší obchodní přirážky i oslabování nejsilnějších hráčů",
+   "pub": "ÚOHS",
+   "date": "8. 4. 2026",
+   "url": "https://uohs.gov.cz/cs/informacni-centrum/tiskove-zpravy/hospodarska-soutez/4518-sektor-nealkoholickych-napoju-rozruznene-trhy-vyssi-obchodni-prirazky-i-oslabovani-nejsilnejsich-hracu.html",
+   "type": "official"
+  },
+  "zap_niq": {
+   "short": "Zboží&Prodej 15. 6. 2026",
+   "title": "Zboží&Prodej 5/2026: Nealko prodává přehlednost (data NIQ)",
+   "pub": "Zboží&Prodej / Pavel Gregor",
+   "date": "15. 6. 2026",
+   "url": "https://www.zboziaprodej.cz/2026/06/15/zboziprodej-5-2026-nealko-prodava-prehlednost/",
+   "type": "secondary"
+  },
+  "own_img": {
+   "short": "Vlastní test 22. 9. 2026",
+   "title": "Vlastní srovnání obrazových modelů: SDXL 1.0 a generátor OpenAI v Codexu, stejná zadání, 4 pokusy",
+   "pub": "Vlastní tvorba (protokol v 04_Podklady/obrazky/vlastni-ukazky)",
+   "date": "22. 9. 2026",
+   "url": "",
+   "type": "own"
+  },
+  "own_llm": {
+   "short": "Vlastní test 22. 9. 2026",
+   "title": "Vlastní praktická ukázka: Claude Opus 5.5 a GPT-6 Astra, stejné reklamní zadání",
+   "pub": "Vlastní tvorba (výstupy v 04_Podklady/test-modelu)",
+   "date": "22. 9. 2026",
+   "url": "",
+   "type": "own"
+  },
+  "own_c2pa": {
+   "short": "Vlastní rozbor metadat",
+   "title": "Rozbor C2PA manifestu v obrázcích z generátoru OpenAI",
+   "pub": "Vlastní tvorba",
+   "date": "22. 9. 2026",
+   "url": "",
+   "type": "own"
+  },
+  "claude_pricing": {
+   "short": "Claude Plans & Pricing",
+   "title": "Plans & Pricing",
+   "pub": "Anthropic",
+   "date": "staženo 22. 9. 2026",
+   "url": "https://claude.com/pricing",
+   "type": "maker"
+  },
+  "anth_vision": {
+   "short": "Anthropic Docs",
+   "title": "Vision (dokumentace Claude)",
+   "pub": "Anthropic",
+   "date": "staženo 22. 9. 2026",
+   "url": "https://platform.claude.com/docs/en/build-with-claude/vision",
+   "type": "maker"
+  },
+  "anth_design": {
+   "short": "Anthropic 17. 4. 2026",
+   "title": "Introducing Claude Design by Anthropic Labs",
+   "pub": "Anthropic",
+   "date": "17. 4. 2026",
+   "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+   "type": "maker"
+  },
+  "oai_capab": {
+   "short": "OpenAI Help",
+   "title": "ChatGPT Capabilities Overview",
+   "pub": "OpenAI",
+   "date": "staženo 22. 9. 2026",
+   "url": "https://help.openai.com/en/articles/9260256-chatgpt-capabilities-overview",
+   "type": "maker"
+  },
+  "oai_sora_end": {
+   "short": "OpenAI Help",
+   "title": "What to know about the Sora discontinuation",
+   "pub": "OpenAI",
+   "date": "aktualizováno cca 31. 8. 2026",
+   "url": "https://help.openai.com/en/articles/20001152-what-to-know-about-the-sora-discontinuation",
+   "type": "maker"
+  },
+  "g_mcp_api": {
+   "short": "Google for Developers",
+   "title": "Developer token (ukončení 9. 9. 2026) a Access levels",
+   "pub": "Google",
+   "date": "aktualizováno 11. 9. 2026",
+   "url": "https://developers.google.com/google-ads/api/docs/get-started/dev-token",
+   "type": "maker"
+  },
+  "tiktok_mcp": {
+   "short": "TikTok Business Help",
+   "title": "About TikTok for Business MCP Server",
+   "pub": "TikTok",
+   "date": "srpen 2026",
+   "url": "https://ads.tiktok.com/resources/help/article/about-tiktok-for-business-agentic-hub-and-mcp-server?lang=en",
+   "type": "maker"
+  },
+  "amazon_mcp": {
+   "short": "Amazon Ads 2. 2. 2026",
+   "title": "Introducing the Amazon Ads MCP Server",
+   "pub": "Amazon Ads",
+   "date": "2. 2. 2026",
+   "url": "https://advertising.amazon.com/library/news/amazon-ads-mcp-server-open-beta",
+   "type": "maker"
+  },
+  "wsj_meta": {
+   "short": "Marketing Dive 2. 6. 2025 (o WSJ)",
+   "title": "Meta reportedly expects to offer fully automated AI ads by 2026",
+   "pub": "Marketing Dive, cituje The Wall Street Journal",
+   "date": "2. 6. 2025",
+   "url": "https://www.marketingdive.com/news/meta-plans-to-enable-fully-ai-automated-ads-by-2026/749613/",
+   "type": "secondary"
+  },
+  "meta_cannes26": {
+   "short": "Meta 23. 6. 2026",
+   "title": "Cannes Lions 2026: New Creative and Creator Tools",
+   "pub": "Meta for Business",
+   "date": "23. 6. 2026",
+   "url": "https://www.facebook.com/business/news/cannes-2026-cross-ai-threshold",
+   "type": "maker"
+  },
+  "m_q1_2026": {
+   "short": "Meta Q1 2026",
+   "title": "Q1 2026 Earnings Call Transcript",
+   "pub": "Meta Platforms",
+   "date": "29. 4. 2026",
+   "url": "https://s21.q4cdn.com/399680738/files/doc_financials/2026/q1/META-Q1-2026-Earnings-Call-Transcript.pdf",
+   "type": "maker"
+  },
+  "oai_ads_eu": {
+   "short": "OpenAI 18. 8. 2026",
+   "title": "ChatGPT Ads expands across Europe",
+   "pub": "OpenAI",
+   "date": "18. 8. 2026, aktualizováno 31. 8. 2026",
+   "url": "https://openai.com/index/chatgpt-ads-expands-across-europe/",
+   "type": "maker"
+  },
+  "sklik_asistent": {
+   "short": "Seznam 25. 6. 2026",
+   "title": "Novinka v Seznam Asistentovi: pod odpověďmi se zobrazují inzeráty z Skliku",
+   "pub": "Blog Seznam.cz",
+   "date": "25. 6. 2026",
+   "url": "https://blog.seznam.cz/2026/06/novinka-v-seznam-asistentovi-pod-odpovedmi-se-zobrazuji-inzeraty-z-skliku/",
+   "type": "maker"
+  },
+  "code_practice": {
+   "short": "Evropská komise 10. 6. 2026",
+   "title": "Commission publishes Code of Practice on marking and labelling of AI-generated content",
+   "pub": "Evropská komise",
+   "date": "10. 6. 2026",
+   "url": "https://digital-strategy.ec.europa.eu/en/news/commission-publishes-code-practice-marking-and-labelling-ai-generated-content",
+   "type": "primary"
+  },
+  "ctu_art50": {
+   "short": "ČTÚ 31. 7. 2026",
+   "title": "Tisková zpráva: 2. srpna 2026 jako klíčové datum pro pravidla transparentnosti podle aktu o umělé inteligenci",
+   "pub": "Český telekomunikační úřad",
+   "date": "31. 7. 2026",
+   "url": "https://ctu.gov.cz/tiskova-zprava-2.-srpna-2026-jako-klicove-datum-pro-pravidla-transparentnosti-podle-aktu-o-umele",
+   "type": "primary"
+  },
+  "rpr_kodex": {
+   "short": "RPR Kodex reklamy 2025",
+   "title": "Kodex reklamy 2025, čl. 3.7",
+   "pub": "Rada pro reklamu",
+   "date": "září 2025",
+   "url": "https://www.rpr.cz/wp-content/uploads/2025/09/Kodex-reklamy_2025.pdf",
+   "type": "primary"
+  },
+  "aka_dolejsova": {
+   "short": "AKA 27. 8. 2026",
+   "title": "Označování AI v reklamě? Nespouštějme paniku, radila Petra Dolejšová",
+   "pub": "AKA",
+   "date": "27. 8. 2026",
+   "url": "https://www.aka.cz/clanek/oznacovani-ai-v-reklame-nespoustejme-paniku-radila-petra-dolejsova/",
+   "type": "primary"
+  },
+  "meta_ai_labels": {
+   "short": "Meta 3. 2. 2025",
+   "title": "Expanding GenAI Transparency for Meta’s Ads Products (aktualizováno 1. 6. 2026)",
+   "pub": "Meta",
+   "date": "3. 2. 2025, aktualizováno 1. 6. 2026",
+   "url": "https://about.fb.com/news/2025/02/gen-ai-transparency-metas-ads-products/",
+   "type": "maker"
+  },
+  "tiktok_aigc": {
+   "short": "TikTok Ads 2026",
+   "title": "TikTok ads policy: Misleading and false content",
+   "pub": "TikTok",
+   "date": "aktualizováno duben 2026",
+   "url": "https://ads.tiktok.com/help/article/tiktok-ads-policy-misleading-and-false-content",
+   "type": "maker"
+  },
+  "mia_zelu": {
+   "short": "Tennis.com 16. 7. 2025",
+   "title": "Influencer Mia Zelu went viral at Wimbledon—with one catch: She’s A.I.",
+   "pub": "Tennis.com / Stephanie Livaudais",
+   "date": "16. 7. 2025",
+   "url": "https://www.tennis.com/news/articles/ai-influencer-mia-zelu-went-viral-wimbledon-artificial-intelligence-social-media",
+   "type": "secondary"
+  },
+  "miquela": {
+   "short": "MM+M 15. 10. 2025",
+   "title": "A creator developed leukemia — except she’s an AI influencer in a healthcare marketing campaign",
+   "pub": "MM+M / Heerea Rikhraj",
+   "date": "15. 10. 2025",
+   "url": "https://www.mmm-online.com/news/lil-miquela-leukemia-ai-influencer-marketing/",
+   "type": "secondary"
+  },
+  "tiktok_symphony": {
+   "short": "TikTok 17. 6. 2024",
+   "title": "Meet Symphony Avatars",
+   "pub": "TikTok Newsroom",
+   "date": "17. 6. 2024",
+   "url": "https://newsroom.tiktok.com/en-us/announcing-symphony-avatars",
+   "type": "maker"
+  },
+  "nim_trust": {
+   "short": "NIM 2025",
+   "title": "Transparency Without Trust",
+   "pub": "Nuremberg Institute for Market Decisions",
+   "date": "2025",
+   "url": "https://www.nim.org/en/publications/detail/transparency-without-trust",
+   "type": "research"
+  }
+ },
+ "TYPE_LABEL": {
+  "primary": "původní zdroj",
+  "secondary": "sekundární zdroj",
+  "maker": "tvrzení výrobce / tvůrce",
+  "official": "oficiální statistika",
+  "research": "výzkum",
+  "own": "vlastní tvorba"
+ },
+ "V": {
+  "t1_now": {
+   "file": "04_Podklady/obrazky/vlastni-ukazky/01_srovnani-2023-2026/dnes-openai-codex/T1_pokus1.png",
+   "kind": "own",
+   "depicts": "Lahev ZÁTOKA u jezera, zadání T1, pokus 1 ze 4",
+   "owner": "Vlastní ukázka vytvořená generátorem OpenAI v Codex CLI 0.156.0 (C2PA: ChatGPT, gpt-image), 22. 9. 2026",
+   "source": "own_img",
+   "license": "Vlastní tvorba"
+  },
+  "t1_now3_label": {
+   "file": "04_Podklady/obrazky/upravene/T1_dnes_pokus3_etiketa_vyrez.png",
+   "kind": "own",
+   "depicts": "Výřez etikety, zadání T1, pokus 3: slovenské texty a „bez konzervantov“",
+   "owner": "Vlastní ukázka vytvořená generátorem OpenAI v Codex CLI 0.156.0 (C2PA: ChatGPT, gpt-image), 22. 9. 2026",
+   "source": "own_img",
+   "license": "Vlastní tvorba (výřez)"
+  },
+  "t1_sdxl": {
+   "file": "_work/tests/sdxl/T1_seed1.png",
+   "kind": "own",
+   "depicts": "Lahev s nápisem „ZÀTKA“, zadání T1, seed 1 ze 4",
+   "owner": "Vlastní ukázka: model SDXL 1.0 (Stability AI, červenec 2023) spuštěný lokálně 22. 9. 2026, licence modelu CreativeML Open RAIL++-M",
+   "source": "own_img",
+   "license": "Vlastní tvorba"
+  },
+  "t1_sdxl_label": {
+   "file": "04_Podklady/obrazky/upravene/T1_sdxl_seed1_etiketa_vyrez.png",
+   "kind": "own",
+   "depicts": "Výřez etikety SDXL, zadání T1, seed 1",
+   "owner": "Vlastní ukázka: model SDXL 1.0 (Stability AI, červenec 2023) spuštěný lokálně 22. 9. 2026, licence modelu CreativeML Open RAIL++-M",
+   "source": "own_img",
+   "license": "Vlastní tvorba (výřez)"
+  },
+  "t2_now": {
+   "file": "04_Podklady/obrazky/vlastni-ukazky/01_srovnani-2023-2026/dnes-openai-codex/T2_pokus2.png",
+   "kind": "own",
+   "depicts": "Plakát pekárny „Čerstvé rohlíky každé ráno“, zadání T2, pokus 2 ze 4",
+   "owner": "Vlastní ukázka vytvořená generátorem OpenAI v Codex CLI 0.156.0 (C2PA: ChatGPT, gpt-image), 22. 9. 2026",
+   "source": "own_img",
+   "license": "Vlastní tvorba"
+  },
+  "t2_sdxl": {
+   "file": "_work/tests/sdxl/T2_seed4.png",
+   "kind": "own",
+   "depicts": "Plakát pekárny, zadání T2, seed 4 ze 4: nadpis „CERRASTVI KRU KAKA ROILKY“",
+   "owner": "Vlastní ukázka: model SDXL 1.0 (Stability AI, červenec 2023) spuštěný lokálně 22. 9. 2026, licence modelu CreativeML Open RAIL++-M",
+   "source": "own_img",
+   "license": "Vlastní tvorba"
+  },
+  "t3_now": {
+   "file": "04_Podklady/obrazky/vlastni-ukazky/01_srovnani-2023-2026/dnes-openai-codex/T3_pokus2.png",
+   "kind": "own",
+   "depicts": "Cyklistka ve žluté bundě na Starém Městě, zadání T3, pokus 2 ze 4 (s logem nextbike, které nebylo zadáno)",
+   "owner": "Vlastní ukázka vytvořená generátorem OpenAI v Codex CLI 0.156.0 (C2PA: ChatGPT, gpt-image), 22. 9. 2026",
+   "source": "own_img",
+   "license": "Vlastní tvorba; obsahuje cizí ochrannou známku vloženou modelem"
+  },
+  "t3_sdxl": {
+   "file": "_work/tests/sdxl/T3_seed1.png",
+   "kind": "own",
+   "depicts": "Cyklistka, zadání T3, seed 1 ze 4: jede, ale nedrží kávu",
+   "owner": "Vlastní ukázka: model SDXL 1.0 (Stability AI, červenec 2023) spuštěný lokálně 22. 9. 2026, licence modelu CreativeML Open RAIL++-M",
+   "source": "own_img",
+   "license": "Vlastní tvorba"
+  },
+  "d1": {
+   "file": "04_Podklady/obrazky/vlastni-ukazky/02_upravy-a-varianty/D1_zatoka-v-zime.png",
+   "kind": "own",
+   "depicts": "Úprava: stejná lahev v zimních horách",
+   "owner": "Vlastní ukázka vytvořená generátorem OpenAI v Codex CLI 0.156.0 (C2PA: ChatGPT, gpt-image), 22. 9. 2026",
+   "source": "own_img",
+   "license": "Vlastní tvorba"
+  },
+  "d2": {
+   "file": "04_Podklady/obrazky/vlastni-ukazky/02_upravy-a-varianty/D2_pekarstvi-nemecky.png",
+   "kind": "own",
+   "depicts": "Úprava: plakát přeložený do němčiny",
+   "owner": "Vlastní ukázka vytvořená generátorem OpenAI v Codex CLI 0.156.0 (C2PA: ChatGPT, gpt-image), 22. 9. 2026",
+   "source": "own_img",
+   "license": "Vlastní tvorba"
+  },
+  "d3a": {
+   "file": "04_Podklady/obrazky/vlastni-ukazky/02_upravy-a-varianty/D3_stejna-postava-kavarna.png",
+   "kind": "own",
+   "depicts": "Stejná postava v kavárně (reference T3 pokus 2)",
+   "owner": "Vlastní ukázka vytvořená generátorem OpenAI v Codex CLI 0.156.0 (C2PA: ChatGPT, gpt-image), 22. 9. 2026",
+   "source": "own_img",
+   "license": "Vlastní tvorba"
+  },
+  "d3b": {
+   "file": "04_Podklady/obrazky/vlastni-ukazky/02_upravy-a-varianty/D3_stejna-postava-stanice.png",
+   "kind": "own",
+   "depicts": "Stejná postava u stanice kol za soumraku",
+   "owner": "Vlastní ukázka vytvořená generátorem OpenAI v Codex CLI 0.156.0 (C2PA: ChatGPT, gpt-image), 22. 9. 2026",
+   "source": "own_img",
+   "license": "Vlastní tvorba"
+  },
+  "d4": {
+   "file": "04_Podklady/obrazky/vlastni-ukazky/02_upravy-a-varianty/D4_bez-log-a-sloganu.png",
+   "kind": "own",
+   "depicts": "Úprava: z fotky odstraněna loga a slogany",
+   "owner": "Vlastní ukázka vytvořená generátorem OpenAI v Codex CLI 0.156.0 (C2PA: ChatGPT, gpt-image), 22. 9. 2026",
+   "source": "own_img",
+   "license": "Vlastní tvorba"
+  },
+  "coke24": {
+   "file": "04_Podklady/obrazky/prevzate/kampane-influenceri/coca-cola-2024-silverside-trucks-village-01.jpg",
+   "kind": "real",
+   "depicts": "Coca-Cola „Holidays Are Coming“ 2024, kamiony ve vesnici",
+   "owner": "The Coca-Cola Company / Silverside AI",
+   "source": "silverside",
+   "license": "Autorsky chráněno; použito jako citace s uvedením zdroje (§ 31 autorského zákona)"
+  },
+  "kalshi": {
+   "file": "04_Podklady/obrazky/upravene/kalshi-2025-bez-cerneho-okraje.jpg",
+   "kind": "real",
+   "depicts": "Kalshi, reklama během finále NBA 2025 (náhled videa tvůrce, oříznutý černý okraj)",
+   "owner": "PJ Accetturo pro Kalshi",
+   "source": "npr_kalshi",
+   "license": "Autorsky chráněno; použito jako citace s uvedením zdroje (§ 31 autorského zákona)"
+  },
+  "mcd_end": {
+   "file": "04_Podklady/obrazky/prevzate/kampane-influenceri/mcdonalds-nl-2025-terrible-time-endcard-ai-label.jpg",
+   "kind": "real",
+   "depicts": "McDonald’s NL 2025, závěrečný snímek se štítkem „AI generated“",
+   "owner": "McDonald’s NL / TBWA\\Neboko / The Sweetshop",
+   "source": "commons_mcd",
+   "license": "Wikimedia Commons uvádí volné dílo (tvrzení nahrávajícího); ochranné známky McDonald’s; snímek z videa"
+  },
+  "coke25": {
+   "file": "04_Podklady/obrazky/prevzate/kampane-influenceri/coca-cola-2025-holidays-are-coming-still-01.jpg",
+   "kind": "real",
+   "depicts": "Coca-Cola „Holidays Are Coming“ 2025 (náhled oficiálního videa)",
+   "owner": "The Coca-Cola Company",
+   "source": "coke2025",
+   "license": "Autorsky chráněno; použito jako citace s uvedením zdroje (§ 31 autorského zákona)"
+  },
+  "aitana": {
+   "file": "04_Podklady/obrazky/prevzate/kampane-influenceri/aitana-lopez-instagram-images-euronews.jpg",
+   "kind": "real",
+   "depicts": "Aitana López, tři příspěvky z Instagramu (koláž Euronews)",
+   "owner": "The Clueless / Euronews",
+   "source": "euronews_aitana",
+   "license": "Autorsky chráněno; použito jako citace s uvedením zdroje (§ 31 autorského zákona)"
+  },
+  "lu": {
+   "file": "04_Podklady/obrazky/prevzate/kampane-influenceri/lu-do-magalu-ogilvy-motion-capture.jpg",
+   "kind": "real",
+   "depicts": "Lu do Magalu: herečka v obleku pro snímání pohybu a 3D postava",
+   "owner": "Magazine Luiza / Ogilvy",
+   "source": "ogilvy_lu",
+   "license": "Autorsky chráněno; použito jako citace s uvedením zdroje (§ 31 autorského zákona)"
+  },
+  "hm": {
+   "file": "04_Podklady/obrazky/prevzate/kampane-influenceri/hm-2025-digital-twin-denim-01.jpg",
+   "kind": "real",
+   "depicts": "H&M digitální dvojče modelky s označením „Digital Twin“",
+   "owner": "H&M",
+   "source": "hm_group",
+   "license": "Tiskový obrázek H&M, redakční užití s uvedením zdroje"
+  },
+  "dalle_sign": {
+   "file": "04_Podklady/obrazky/prevzate/historie-data/2022-04_dalle2-paper-fig16_text-sign-deep-learning.png",
+   "kind": "hist",
+   "depicts": "DALL-E 2, zadání „A sign that says deep learning“, 4 výstupy (obr. 16)",
+   "owner": "Ramesh a kol. (OpenAI), arXiv 2204.06125",
+   "source": "dalle2paper",
+   "license": "CC BY 4.0"
+  },
+  "heinz": {
+   "file": "04_Podklady/obrazky/prevzate/historie-data/2022-08_heinz-ai-ketchup_dalle2_via-adweek.jpg",
+   "kind": "real",
+   "depicts": "Heinz „A.I. Ketchup“ 2022, vizuály z DALL-E 2",
+   "owner": "Kraft Heinz / Rethink (via Adweek)",
+   "source": "adweek_heinz",
+   "license": "Autorsky chráněno; použito jako citace s uvedením zdroje (§ 31 autorského zákona)"
+  },
+  "pope": {
+   "file": "04_Podklady/obrazky/prevzate/historie-data/2023-03_pope-puffer-jacket_midjourney_reddit-original-1of4.jpg",
+   "kind": "hist",
+   "depicts": "Papež v péřové bundě, Midjourney, 24. 3. 2023 (1 ze 4)",
+   "owner": "u/trippy_art_special (Pablo Xavier)",
+   "source": "pope_reddit",
+   "license": "Licence neuvedena; AI obraz skutečné osoby, použito jako zpravodajský příklad s označením"
+  },
+  "ws23": {
+   "file": "04_Podklady/obrazky/upravene/will-smith-2023-poster.png",
+   "kind": "hist",
+   "depicts": "„Will Smith eating spaghetti“, ModelScope, březen 2023 (snímek)",
+   "owner": "u/chaindrop",
+   "source": "ws2023",
+   "license": "Commons: PD-algorithm, osobnostní práva; AI obraz skutečné osoby"
+  },
+  "ws25": {
+   "file": "04_Podklady/obrazky/upravene/will-smith-2025-poster.png",
+   "kind": "hist",
+   "depicts": "Stejné zadání ve Veo 3, květen 2025 (snímek)",
+   "owner": "Javi Lopez",
+   "source": "ws2025",
+   "license": "Citace; soubor na Commons navržen ke smazání; AI obraz skutečné osoby"
+  },
+  "dreambooth": {
+   "file": "04_Podklady/obrazky/prevzate/historie-data/2022-08_dreambooth-paper-fig2_product-fidelity-clock_dalle2-imagen-vs-finetune.png",
+   "kind": "hist",
+   "depicts": "DreamBooth obr. 2: DALL-E 2 a Imagen nezvládnou konkrétní budík, dotrénovaný model ano",
+   "owner": "Ruiz a kol. (Google Research)",
+   "source": "dreambooth",
+   "license": "CC BY 4.0"
+  },
+  "rohlik": {
+   "file": "04_Podklady/obrazky/prevzate/cesko-rozpoznavani/rohlik-vanoce-ai-2025_czechcrunch.jpg",
+   "kind": "real",
+   "depicts": "Rohlík, vánoční spot 2025 (snímek)",
+   "owner": "Rohlik Group (via CzechCrunch)",
+   "source": "cc_rohlik",
+   "license": "Autorsky chráněno; použito jako citace s uvedením zdroje (§ 31 autorského zákona)"
+  },
+  "rohlik_milk": {
+   "file": "04_Podklady/obrazky/upravene/rohlik-krabice-mleka_vyrez.png",
+   "kind": "real",
+   "depicts": "Výřez: krabice mléka s nečitelným textem",
+   "owner": "Rohlik Group (via CzechCrunch)",
+   "source": "cc_rohlik",
+   "license": "Autorsky chráněno; použito jako citace s uvedením zdroje (§ 31 autorského zákona)"
+  },
+  "car": {
+   "file": "04_Podklady/obrazky/prevzate/cesko-rozpoznavani/rohlik-auto-realne-foto-2022_commons_spz-rozmazane.jpg",
+   "kind": "photo",
+   "depicts": "Skutečná fotografie auta Rohlík, Praha-Třebešín 2022 (SPZ rozmazány námi)",
+   "owner": "JiriMatejicek, Wikimedia Commons",
+   "source": "commons_car",
+   "license": "CC BY-SA 3.0; upraveno (rozmazané SPZ), úprava šířena pod stejnou licencí"
+  },
+  "epoj": {
+   "file": "04_Podklady/obrazky/prevzate/cesko-rozpoznavani/epojisteni-opice-ai-tv-2025_mediaguru.png",
+   "kind": "real",
+   "depicts": "ePojištění.cz 2025, šimpanz s bankovkami",
+   "owner": "ePojisteni.cz / Ydeal (via MediaGuru)",
+   "source": "mg_epoj",
+   "license": "Autorsky chráněno; použito jako citace s uvedením zdroje (§ 31 autorského zákona)"
+  },
+  "eshop_left": {
+   "file": "04_Podklady/obrazky/upravene/eshop-reklama-leva-polovina_vyrez.jpg",
+   "kind": "real",
+   "depicts": "Reklamní obrázek e-shopu (levá polovina koláže iROZHLAS)",
+   "owner": "Český rozhlas (koláž)",
+   "source": "irozhlas_eshop",
+   "license": "Autorsky chráněno; použito jako citace s uvedením zdroje (§ 31 autorského zákona)"
+  },
+  "eshop_full": {
+   "file": "04_Podklady/obrazky/prevzate/cesko-rozpoznavani/eshop-ai-foto-vs-realita-2026_irozhlas.jpg",
+   "kind": "real",
+   "depicts": "Reklama e-shopu a hračky, které zákazník dostal (koláž iROZHLAS)",
+   "owner": "Český rozhlas; foto vpravo Ivan Pacholík",
+   "source": "irozhlas_eshop",
+   "license": "Autorsky chráněno; použito jako citace s uvedením zdroje (§ 31 autorského zákona)"
+  },
+  "o2": {
+   "file": "04_Podklady/obrazky/prevzate/cesko-rozpoznavani/o2-eurotel-ai-remake-2026_spot-still_mediar.jpg",
+   "kind": "real",
+   "depicts": "O2, AI remake reklamy Eurotelu 2026 (snímek)",
+   "owner": "O2 Czech Republic / Free Andy (via Médiář)",
+   "source": "mediar_o2",
+   "license": "Autorsky chráněno; použito jako citace s uvedením zdroje (§ 31 autorského zákona)"
+  },
+  "bata": {
+   "file": "04_Podklady/obrazky/prevzate/cesko-rozpoznavani/bata-barefoot-ai-kampan-2026_czechcrunch.jpg",
+   "kind": "real",
+   "depicts": "Baťa, AI kampaň 2026 (redakční koláž CzechCrunch s logem, vychází z vizuálu kampaně)",
+   "owner": "Baťa (via CzechCrunch)",
+   "source": "cc_bata",
+   "license": "Autorsky chráněno; použito jako citace s uvedením zdroje (§ 31 autorského zákona)"
+  },
+  "livesport": {
+   "file": "04_Podklady/obrazky/prevzate/cesko-rozpoznavani/livesport-ailu-avatar-2026_mediaguru.jpg",
+   "kind": "real",
+   "depicts": "Livesport, virtuální moderátorka AILU",
+   "owner": "Livesport (via MediaGuru)",
+   "source": "mg_livesport",
+   "license": "Autorsky chráněno; použito jako citace s uvedením zdroje (§ 31 autorského zákona)"
+  },
+  "t1_sdxl_1": {
+   "file": "_work/tests/sdxl/T1_seed1.png",
+   "kind": "own",
+   "depicts": "Zadání T1, SDXL 1.0, seed 1",
+   "owner": "Vlastní ukázka: model SDXL 1.0 (Stability AI, červenec 2023) spuštěný lokálně 22. 9. 2026, licence modelu CreativeML Open RAIL++-M",
+   "source": "own_img",
+   "license": "Vlastní tvorba"
+  },
+  "t1_now_1": {
+   "file": "04_Podklady/obrazky/vlastni-ukazky/01_srovnani-2023-2026/dnes-openai-codex/T1_pokus1.png",
+   "kind": "own",
+   "depicts": "Zadání T1, generátor OpenAI, pokus 1",
+   "owner": "Vlastní ukázka vytvořená generátorem OpenAI v Codex CLI 0.156.0 (C2PA: ChatGPT, gpt-image), 22. 9. 2026",
+   "source": "own_img",
+   "license": "Vlastní tvorba"
+  },
+  "t1_sdxl_2": {
+   "file": "_work/tests/sdxl/T1_seed2.png",
+   "kind": "own",
+   "depicts": "Zadání T1, SDXL 1.0, seed 2",
+   "owner": "Vlastní ukázka: model SDXL 1.0 (Stability AI, červenec 2023) spuštěný lokálně 22. 9. 2026, licence modelu CreativeML Open RAIL++-M",
+   "source": "own_img",
+   "license": "Vlastní tvorba"
+  },
+  "t1_now_2": {
+   "file": "04_Podklady/obrazky/vlastni-ukazky/01_srovnani-2023-2026/dnes-openai-codex/T1_pokus2.png",
+   "kind": "own",
+   "depicts": "Zadání T1, generátor OpenAI, pokus 2",
+   "owner": "Vlastní ukázka vytvořená generátorem OpenAI v Codex CLI 0.156.0 (C2PA: ChatGPT, gpt-image), 22. 9. 2026",
+   "source": "own_img",
+   "license": "Vlastní tvorba"
+  },
+  "t1_sdxl_3": {
+   "file": "_work/tests/sdxl/T1_seed3.png",
+   "kind": "own",
+   "depicts": "Zadání T1, SDXL 1.0, seed 3",
+   "owner": "Vlastní ukázka: model SDXL 1.0 (Stability AI, červenec 2023) spuštěný lokálně 22. 9. 2026, licence modelu CreativeML Open RAIL++-M",
+   "source": "own_img",
+   "license": "Vlastní tvorba"
+  },
+  "t1_now_3": {
+   "file": "04_Podklady/obrazky/vlastni-ukazky/01_srovnani-2023-2026/dnes-openai-codex/T1_pokus3.png",
+   "kind": "own",
+   "depicts": "Zadání T1, generátor OpenAI, pokus 3",
+   "owner": "Vlastní ukázka vytvořená generátorem OpenAI v Codex CLI 0.156.0 (C2PA: ChatGPT, gpt-image), 22. 9. 2026",
+   "source": "own_img",
+   "license": "Vlastní tvorba"
+  },
+  "t1_sdxl_4": {
+   "file": "_work/tests/sdxl/T1_seed4.png",
+   "kind": "own",
+   "depicts": "Zadání T1, SDXL 1.0, seed 4",
+   "owner": "Vlastní ukázka: model SDXL 1.0 (Stability AI, červenec 2023) spuštěný lokálně 22. 9. 2026, licence modelu CreativeML Open RAIL++-M",
+   "source": "own_img",
+   "license": "Vlastní tvorba"
+  },
+  "t1_now_4": {
+   "file": "04_Podklady/obrazky/vlastni-ukazky/01_srovnani-2023-2026/dnes-openai-codex/T1_pokus4.png",
+   "kind": "own",
+   "depicts": "Zadání T1, generátor OpenAI, pokus 4",
+   "owner": "Vlastní ukázka vytvořená generátorem OpenAI v Codex CLI 0.156.0 (C2PA: ChatGPT, gpt-image), 22. 9. 2026",
+   "source": "own_img",
+   "license": "Vlastní tvorba"
+  },
+  "t2_sdxl_1": {
+   "file": "_work/tests/sdxl/T2_seed1.png",
+   "kind": "own",
+   "depicts": "Zadání T2, SDXL 1.0, seed 1",
+   "owner": "Vlastní ukázka: model SDXL 1.0 (Stability AI, červenec 2023) spuštěný lokálně 22. 9. 2026, licence modelu CreativeML Open RAIL++-M",
+   "source": "own_img",
+   "license": "Vlastní tvorba"
+  },
+  "t2_now_1": {
+   "file": "04_Podklady/obrazky/vlastni-ukazky/01_srovnani-2023-2026/dnes-openai-codex/T2_pokus1.png",
+   "kind": "own",
+   "depicts": "Zadání T2, generátor OpenAI, pokus 1",
+   "owner": "Vlastní ukázka vytvořená generátorem OpenAI v Codex CLI 0.156.0 (C2PA: ChatGPT, gpt-image), 22. 9. 2026",
+   "source": "own_img",
+   "license": "Vlastní tvorba"
+  },
+  "t2_sdxl_2": {
+   "file": "_work/tests/sdxl/T2_seed2.png",
+   "kind": "own",
+   "depicts": "Zadání T2, SDXL 1.0, seed 2",
+   "owner": "Vlastní ukázka: model SDXL 1.0 (Stability AI, červenec 2023) spuštěný lokálně 22. 9. 2026, licence modelu CreativeML Open RAIL++-M",
+   "source": "own_img",
+   "license": "Vlastní tvorba"
+  },
+  "t2_now_2": {
+   "file": "04_Podklady/obrazky/vlastni-ukazky/01_srovnani-2023-2026/dnes-openai-codex/T2_pokus2.png",
+   "kind": "own",
+   "depicts": "Zadání T2, generátor OpenAI, pokus 2",
+   "owner": "Vlastní ukázka vytvořená generátorem OpenAI v Codex CLI 0.156.0 (C2PA: ChatGPT, gpt-image), 22. 9. 2026",
+   "source": "own_img",
+   "license": "Vlastní tvorba"
+  },
+  "t2_sdxl_3": {
+   "file": "_work/tests/sdxl/T2_seed3.png",
+   "kind": "own",
+   "depicts": "Zadání T2, SDXL 1.0, seed 3",
+   "owner": "Vlastní ukázka: model SDXL 1.0 (Stability AI, červenec 2023) spuštěný lokálně 22. 9. 2026, licence modelu CreativeML Open RAIL++-M",
+   "source": "own_img",
+   "license": "Vlastní tvorba"
+  },
+  "t2_now_3": {
+   "file": "04_Podklady/obrazky/vlastni-ukazky/01_srovnani-2023-2026/dnes-openai-codex/T2_pokus3.png",
+   "kind": "own",
+   "depicts": "Zadání T2, generátor OpenAI, pokus 3",
+   "owner": "Vlastní ukázka vytvořená generátorem OpenAI v Codex CLI 0.156.0 (C2PA: ChatGPT, gpt-image), 22. 9. 2026",
+   "source": "own_img",
+   "license": "Vlastní tvorba"
+  },
+  "t2_sdxl_4": {
+   "file": "_work/tests/sdxl/T2_seed4.png",
+   "kind": "own",
+   "depicts": "Zadání T2, SDXL 1.0, seed 4",
+   "owner": "Vlastní ukázka: model SDXL 1.0 (Stability AI, červenec 2023) spuštěný lokálně 22. 9. 2026, licence modelu CreativeML Open RAIL++-M",
+   "source": "own_img",
+   "license": "Vlastní tvorba"
+  },
+  "t2_now_4": {
+   "file": "04_Podklady/obrazky/vlastni-ukazky/01_srovnani-2023-2026/dnes-openai-codex/T2_pokus4.png",
+   "kind": "own",
+   "depicts": "Zadání T2, generátor OpenAI, pokus 4",
+   "owner": "Vlastní ukázka vytvořená generátorem OpenAI v Codex CLI 0.156.0 (C2PA: ChatGPT, gpt-image), 22. 9. 2026",
+   "source": "own_img",
+   "license": "Vlastní tvorba"
+  },
+  "t3_sdxl_1": {
+   "file": "_work/tests/sdxl/T3_seed1.png",
+   "kind": "own",
+   "depicts": "Zadání T3, SDXL 1.0, seed 1",
+   "owner": "Vlastní ukázka: model SDXL 1.0 (Stability AI, červenec 2023) spuštěný lokálně 22. 9. 2026, licence modelu CreativeML Open RAIL++-M",
+   "source": "own_img",
+   "license": "Vlastní tvorba"
+  },
+  "t3_now_1": {
+   "file": "04_Podklady/obrazky/vlastni-ukazky/01_srovnani-2023-2026/dnes-openai-codex/T3_pokus1.png",
+   "kind": "own",
+   "depicts": "Zadání T3, generátor OpenAI, pokus 1",
+   "owner": "Vlastní ukázka vytvořená generátorem OpenAI v Codex CLI 0.156.0 (C2PA: ChatGPT, gpt-image), 22. 9. 2026",
+   "source": "own_img",
+   "license": "Vlastní tvorba"
+  },
+  "t3_sdxl_2": {
+   "file": "_work/tests/sdxl/T3_seed2.png",
+   "kind": "own",
+   "depicts": "Zadání T3, SDXL 1.0, seed 2",
+   "owner": "Vlastní ukázka: model SDXL 1.0 (Stability AI, červenec 2023) spuštěný lokálně 22. 9. 2026, licence modelu CreativeML Open RAIL++-M",
+   "source": "own_img",
+   "license": "Vlastní tvorba"
+  },
+  "t3_now_2": {
+   "file": "04_Podklady/obrazky/vlastni-ukazky/01_srovnani-2023-2026/dnes-openai-codex/T3_pokus2.png",
+   "kind": "own",
+   "depicts": "Zadání T3, generátor OpenAI, pokus 2",
+   "owner": "Vlastní ukázka vytvořená generátorem OpenAI v Codex CLI 0.156.0 (C2PA: ChatGPT, gpt-image), 22. 9. 2026",
+   "source": "own_img",
+   "license": "Vlastní tvorba"
+  },
+  "t3_sdxl_3": {
+   "file": "_work/tests/sdxl/T3_seed3.png",
+   "kind": "own",
+   "depicts": "Zadání T3, SDXL 1.0, seed 3",
+   "owner": "Vlastní ukázka: model SDXL 1.0 (Stability AI, červenec 2023) spuštěný lokálně 22. 9. 2026, licence modelu CreativeML Open RAIL++-M",
+   "source": "own_img",
+   "license": "Vlastní tvorba"
+  },
+  "t3_now_3": {
+   "file": "04_Podklady/obrazky/vlastni-ukazky/01_srovnani-2023-2026/dnes-openai-codex/T3_pokus3.png",
+   "kind": "own",
+   "depicts": "Zadání T3, generátor OpenAI, pokus 3",
+   "owner": "Vlastní ukázka vytvořená generátorem OpenAI v Codex CLI 0.156.0 (C2PA: ChatGPT, gpt-image), 22. 9. 2026",
+   "source": "own_img",
+   "license": "Vlastní tvorba"
+  },
+  "t3_sdxl_4": {
+   "file": "_work/tests/sdxl/T3_seed4.png",
+   "kind": "own",
+   "depicts": "Zadání T3, SDXL 1.0, seed 4",
+   "owner": "Vlastní ukázka: model SDXL 1.0 (Stability AI, červenec 2023) spuštěný lokálně 22. 9. 2026, licence modelu CreativeML Open RAIL++-M",
+   "source": "own_img",
+   "license": "Vlastní tvorba"
+  },
+  "t3_now_4": {
+   "file": "04_Podklady/obrazky/vlastni-ukazky/01_srovnani-2023-2026/dnes-openai-codex/T3_pokus4.png",
+   "kind": "own",
+   "depicts": "Zadání T3, generátor OpenAI, pokus 4",
+   "owner": "Vlastní ukázka vytvořená generátorem OpenAI v Codex CLI 0.156.0 (C2PA: ChatGPT, gpt-image), 22. 9. 2026",
+   "source": "own_img",
+   "license": "Vlastní tvorba"
+  }
+ },
+ "usage": {
+  "totalMainSeconds": 1495,
+  "slides": [
+   {
+    "n": 1,
+    "id": "titul",
+    "name": "Úvod",
+    "part": "main",
+    "sources": [],
+    "visuals": [
+     "t1_now"
+    ],
+    "prov": [
+     "own"
+    ],
+    "charts": [],
+    "start": 0,
+    "end": 35,
+    "dur": 35
+   },
+   {
+    "n": 2,
+    "id": "coca-cola",
+    "name": "Reklama, kterou vytvořila AI",
+    "part": "main",
+    "sources": [
+     "silverside",
+     "nbc_coke"
+    ],
+    "visuals": [
+     "coke24"
+    ],
+    "prov": [
+     "real"
+    ],
+    "charts": [],
+    "start": 35,
+    "end": 95,
+    "dur": 60
+   },
+   {
+    "n": 3,
+    "id": "vyvoj",
+    "name": "Od pravidel k agentům",
+    "part": "main",
+    "sources": [
+     "dartmouth",
+     "adx2009",
+     "smartbid2016",
+     "chatgpt2022",
+     "anth_cu2024"
+    ],
+    "visuals": [
+     "sketch:skica-01-vyvoj-ai"
+    ],
+    "prov": [],
+    "charts": [],
+    "start": 95,
+    "end": 165,
+    "dur": 70
+   },
+   {
+    "n": 4,
+    "id": "dobove-ukazky",
+    "name": "Před třemi lety",
+    "part": "main",
+    "sources": [
+     "dalle2paper",
+     "adweek_heinz",
+     "pope_reddit",
+     "verge_pope"
+    ],
+    "visuals": [
+     "pope",
+     "dalle_sign",
+     "heinz"
+    ],
+    "prov": [
+     "hist",
+     "hist",
+     "real"
+    ],
+    "charts": [],
+    "start": 165,
+    "end": 230,
+    "dur": 65
+   },
+   {
+    "n": 5,
+    "id": "test-produkt",
+    "name": "Stejné zadání: produkt",
+    "part": "main",
+    "sources": [
+     "own_img"
+    ],
+    "visuals": [
+     "t1_sdxl",
+     "t1_now",
+     "t1_now3_label"
+    ],
+    "prov": [
+     "own",
+     "own"
+    ],
+    "charts": [],
+    "start": 230,
+    "end": 300,
+    "dur": 70
+   },
+   {
+    "n": 6,
+    "id": "test-text",
+    "name": "Stejné zadání: český text",
+    "part": "main",
+    "sources": [
+     "own_img"
+    ],
+    "visuals": [
+     "t2_sdxl",
+     "t2_now"
+    ],
+    "prov": [
+     "own",
+     "own"
+    ],
+    "charts": [],
+    "start": 300,
+    "end": 350,
+    "dur": 50
+   },
+   {
+    "n": 7,
+    "id": "test-lide",
+    "name": "Stejné zadání: lidé a místo",
+    "part": "main",
+    "sources": [
+     "own_img",
+     "pid_bikes"
+    ],
+    "visuals": [
+     "t3_sdxl",
+     "t3_now"
+    ],
+    "prov": [
+     "own",
+     "own"
+    ],
+    "charts": [],
+    "start": 350,
+    "end": 405,
+    "dur": 55
+   },
+   {
+    "n": 8,
+    "id": "upravy",
+    "name": "Řízené úpravy",
+    "part": "main",
+    "sources": [
+     "own_img"
+    ],
+    "visuals": [
+     "d1",
+     "t1_now",
+     "d2",
+     "t2_now",
+     "d4",
+     "t3_now"
+    ],
+    "prov": [
+     "own"
+    ],
+    "charts": [],
+    "start": 405,
+    "end": 465,
+    "dur": 60
+   },
+   {
+    "n": 9,
+    "id": "postava",
+    "name": "Stejná postava",
+    "part": "main",
+    "sources": [
+     "own_img",
+     "dreambooth"
+    ],
+    "visuals": [
+     "t3_now",
+     "d3a",
+     "d3b"
+    ],
+    "prov": [
+     "own"
+    ],
+    "charts": [],
+    "start": 465,
+    "end": 510,
+    "dur": 45
+   },
+   {
+    "n": 10,
+    "id": "video",
+    "name": "Video za dva roky",
+    "part": "main",
+    "sources": [
+     "ws2023",
+     "ws2025"
+    ],
+    "visuals": [
+     "ws23",
+     "ws25"
+    ],
+    "prov": [
+     "hist",
+     "hist"
+    ],
+    "charts": [],
+    "start": 510,
+    "end": 555,
+    "dur": 45
+   },
+   {
+    "n": 11,
+    "id": "sest-mist",
+    "name": "Kde AI v kampani pomáhá",
+    "part": "main",
+    "sources": [],
+    "visuals": [
+     "sketch:skica-02-sest-mist",
+     "sketch:skica-02b-typy-ai"
+    ],
+    "prov": [],
+    "charts": [],
+    "start": 555,
+    "end": 620,
+    "dur": 65
+   },
+   {
+    "n": 12,
+    "id": "model-aplikace",
+    "name": "Model, aplikace, nástroje",
+    "part": "main",
+    "sources": [
+     "anth_opus55",
+     "oai_astra",
+     "oai_gpt6pro",
+     "oai_images25",
+     "anth_noimg"
+    ],
+    "visuals": [
+     "sketch:skica-03-model-aplikace-nastroje"
+    ],
+    "prov": [],
+    "charts": [],
+    "start": 620,
+    "end": 685,
+    "dur": 65
+   },
+   {
+    "n": 13,
+    "id": "test-modelu",
+    "name": "Stejné zadání pro dva modely",
+    "part": "main",
+    "sources": [
+     "own_llm"
+    ],
+    "visuals": [],
+    "prov": [],
+    "charts": [],
+    "start": 685,
+    "end": 760,
+    "dur": 75
+   },
+   {
+    "n": 14,
+    "id": "platformy",
+    "name": "AI uvnitř reklamních systémů",
+    "part": "main",
+    "sources": [
+     "g_aimax",
+     "g_textcust",
+     "g_demandgen",
+     "m_advcreative",
+     "sklik_chytra",
+     "smec_aimax"
+    ],
+    "visuals": [
+     "sketch:skica-06-sipky"
+    ],
+    "prov": [],
+    "charts": [],
+    "start": 760,
+    "end": 825,
+    "dur": 65
+   },
+   {
+    "n": 15,
+    "id": "data",
+    "name": "Kolik firem a lidí AI používá",
+    "part": "main",
+    "sources": [
+     "eurostat_ent",
+     "csu_ent",
+     "eurostat_ind"
+    ],
+    "visuals": [],
+    "prov": [],
+    "charts": [
+     "firmy-ai"
+    ],
+    "start": 825,
+    "end": 880,
+    "dur": 55
+   },
+   {
+    "n": 16,
+    "id": "kampane",
+    "name": "Skutečné kampaně",
+    "part": "main",
+    "sources": [
+     "npr_kalshi",
+     "nbc_mcd",
+     "commons_mcd",
+     "system1",
+     "futurism_coke"
+    ],
+    "visuals": [
+     "kalshi",
+     "mcd_end"
+    ],
+    "prov": [
+     "real",
+     "real"
+    ],
+    "charts": [],
+    "start": 880,
+    "end": 945,
+    "dur": 65
+   },
+   {
+    "n": 17,
+    "id": "agent",
+    "name": "Agent od zadání po CRM",
+    "part": "main",
+    "sources": [
+     "m_mcp_tools",
+     "m_mcp_help",
+     "g_mcp",
+     "a_chrome",
+     "o_cloudbrowser",
+     "zapier_int"
+    ],
+    "visuals": [
+     "sketch:skica-04-agent-tok",
+     "sketch:skica-04b-agent-legenda"
+    ],
+    "prov": [],
+    "charts": [],
+    "start": 945,
+    "end": 1035,
+    "dur": 90
+   },
+   {
+    "n": 18,
+    "id": "agenti-cisla",
+    "name": "Jak dobře agenti ovládají počítač",
+    "part": "main",
+    "sources": [
+     "osworld_paper",
+     "oai_cua",
+     "xlang_verified",
+     "oai_gpt55",
+     "osworld2"
+    ],
+    "visuals": [],
+    "prov": [],
+    "charts": [
+     "osworld"
+    ],
+    "start": 1035,
+    "end": 1095,
+    "dur": 60
+   },
+   {
+    "n": 19,
+    "id": "virtualni-tvare",
+    "name": "AI influenceři a virtuální tváře",
+    "part": "main",
+    "sources": [
+     "euronews_aitana",
+     "ig_aitana",
+     "magalu_pr",
+     "ig_magalu",
+     "hm_group",
+     "zendrop",
+     "futurism_nyt"
+    ],
+    "visuals": [
+     "aitana",
+     "lu",
+     "hm"
+    ],
+    "prov": [
+     "real"
+    ],
+    "charts": [],
+    "start": 1095,
+    "end": 1175,
+    "dur": 80
+   },
+   {
+    "n": 20,
+    "id": "aktivita",
+    "name": "Aktivita: co vytvořila AI?",
+    "part": "main",
+    "sources": [],
+    "visuals": [
+     "rohlik",
+     "car",
+     "epoj",
+     "eshop_left"
+    ],
+    "prov": [],
+    "charts": [],
+    "start": 1175,
+    "end": 1245,
+    "dur": 70
+   },
+   {
+    "n": 21,
+    "id": "odhaleni",
+    "name": "Odhalení a vodítka",
+    "part": "main",
+    "sources": [
+     "mediar_rohlik",
+     "commons_car",
+     "focus_princ",
+     "irozhlas_eshop"
+    ],
+    "visuals": [
+     "rohlik",
+     "car",
+     "epoj",
+     "eshop_full"
+    ],
+    "prov": [],
+    "charts": [],
+    "start": 1245,
+    "end": 1335,
+    "dur": 90
+   },
+   {
+    "n": 22,
+    "id": "dolozeni",
+    "name": "Podezření a doložení",
+    "part": "main",
+    "sources": [
+     "frank2024",
+     "own_c2pa",
+     "oai_prov",
+     "aiact_faq"
+    ],
+    "visuals": [
+     "sketch:skica-05-podezreni-dolozeni"
+    ],
+    "prov": [],
+    "charts": [],
+    "start": 1335,
+    "end": 1400,
+    "dur": 65
+   },
+   {
+    "n": 23,
+    "id": "okoli",
+    "name": "AI reklama v našem okolí",
+    "part": "main",
+    "sources": [
+     "o2_blog",
+     "mediar_o2",
+     "cc_bata",
+     "mg_livesport"
+    ],
+    "visuals": [
+     "o2",
+     "bata",
+     "livesport"
+    ],
+    "prov": [
+     "real"
+    ],
+    "charts": [],
+    "start": 1400,
+    "end": 1460,
+    "dur": 60
+   },
+   {
+    "n": 24,
+    "id": "zaver",
+    "name": "Co si odnést",
+    "part": "main",
+    "sources": [],
+    "visuals": [],
+    "prov": [],
+    "charts": [],
+    "start": 1460,
+    "end": 1495,
+    "dur": 35
+   },
+   {
+    "n": 25,
+    "id": "p-protokol",
+    "name": "Protokol srovnání obrázků",
+    "part": "appx",
+    "sources": [
+     "own_img",
+     "sdxl",
+     "oai_images25"
+    ],
+    "visuals": [],
+    "prov": [],
+    "charts": []
+   },
+   {
+    "n": 26,
+    "id": "p-pokusy-T1",
+    "name": "Všechny pokusy T1",
+    "part": "appx",
+    "sources": [
+     "own_img"
+    ],
+    "visuals": [
+     "t1_sdxl_1",
+     "t1_now_1",
+     "t1_sdxl_2",
+     "t1_now_2",
+     "t1_sdxl_3",
+     "t1_now_3",
+     "t1_sdxl_4",
+     "t1_now_4"
+    ],
+    "prov": [],
+    "charts": []
+   },
+   {
+    "n": 27,
+    "id": "p-pokusy-T2",
+    "name": "Všechny pokusy T2",
+    "part": "appx",
+    "sources": [
+     "own_img"
+    ],
+    "visuals": [
+     "t2_sdxl_1",
+     "t2_now_1",
+     "t2_sdxl_2",
+     "t2_now_2",
+     "t2_sdxl_3",
+     "t2_now_3",
+     "t2_sdxl_4",
+     "t2_now_4"
+    ],
+    "prov": [],
+    "charts": []
+   },
+   {
+    "n": 28,
+    "id": "p-pokusy-T3",
+    "name": "Všechny pokusy T3",
+    "part": "appx",
+    "sources": [
+     "own_img"
+    ],
+    "visuals": [
+     "t3_sdxl_1",
+     "t3_now_1",
+     "t3_sdxl_2",
+     "t3_now_2",
+     "t3_sdxl_3",
+     "t3_now_3",
+     "t3_sdxl_4",
+     "t3_now_4"
+    ],
+    "prov": [],
+    "charts": []
+   },
+   {
+    "n": 29,
+    "id": "p-modely",
+    "name": "Modely podle reklamních úloh",
+    "part": "appx",
+    "sources": [
+     "anth_opus55",
+     "oai_astra",
+     "zapier_ab",
+     "claude_pricing",
+     "anth_vision",
+     "anth_design",
+     "oai_capab",
+     "oai_images25",
+     "oai_sora_end"
+    ],
+    "visuals": [],
+    "prov": [],
+    "charts": []
+   },
+   {
+    "n": 30,
+    "id": "p-test-texty",
+    "name": "Praktický test: plné výstupy",
+    "part": "appx",
+    "sources": [
+     "own_llm"
+    ],
+    "visuals": [],
+    "prov": [],
+    "charts": []
+   },
+   {
+    "n": 31,
+    "id": "p-test-resers",
+    "name": "Praktický test: rešerše a ověření",
+    "part": "appx",
+    "sources": [
+     "own_llm",
+     "csu_spotreba",
+     "uohs_nealko",
+     "zap_niq"
+    ],
+    "visuals": [],
+    "prov": [],
+    "charts": []
+   },
+   {
+    "n": 32,
+    "id": "p-oblasti",
+    "name": "Šest oblastí využití",
+    "part": "appx",
+    "sources": [
+     "own_llm",
+     "own_img",
+     "cc_rohlik",
+     "g_aimax",
+     "smec_aimax",
+     "g_textcust"
+    ],
+    "visuals": [],
+    "prov": [],
+    "charts": []
+   },
+   {
+    "n": 33,
+    "id": "p-agent",
+    "name": "Agent: kroky a oprávnění",
+    "part": "appx",
+    "sources": [
+     "m_mcp_tools",
+     "m_mcp_help",
+     "g_mcp",
+     "g_mcp_api",
+     "a_chrome",
+     "o_cloudbrowser",
+     "zapier_int",
+     "tiktok_mcp",
+     "amazon_mcp"
+    ],
+    "visuals": [],
+    "prov": [],
+    "charts": []
+   },
+   {
+    "n": 34,
+    "id": "p-statistiky",
+    "name": "Statistiky a definice",
+    "part": "appx",
+    "sources": [
+     "eurostat_ent",
+     "csu_ent",
+     "eurostat_ind",
+     "aka2024",
+     "ressolution",
+     "iab_gap",
+     "m_q1_2026"
+    ],
+    "visuals": [],
+    "prov": [],
+    "charts": []
+   },
+   {
+    "n": 35,
+    "id": "p-tvare",
+    "name": "Virtuální tváře a dropshipping",
+    "part": "appx",
+    "sources": [
+     "euronews_aitana",
+     "ig_aitana",
+     "mia_zelu",
+     "miquela",
+     "magalu_pr",
+     "hm_group",
+     "tiktok_symphony",
+     "mg_livesport",
+     "zendrop",
+     "futurism_nyt",
+     "media404"
+    ],
+    "visuals": [],
+    "prov": [],
+    "charts": []
+   },
+   {
+    "n": 36,
+    "id": "p-oznacovani",
+    "name": "Označování AI",
+    "part": "appx",
+    "sources": [
+     "eurlex_aiact",
+     "aiact_faq",
+     "eurlex_omnibus",
+     "code_practice",
+     "ctu_art50",
+     "meta_ai_labels",
+     "tiktok_aigc",
+     "rpr_kodex",
+     "aka_dolejsova"
+    ],
+    "visuals": [],
+    "prov": [],
+    "charts": []
+   },
+   {
+    "n": 37,
+    "id": "p-fotky",
+    "name": "Šablona pro vlastní fotky",
+    "part": "appx",
+    "sources": [],
+    "visuals": [],
+    "prov": [],
+    "charts": []
+   }
+  ]
+ },
+ "plan": [
+  {
+   "n": 1,
+   "id": "titul",
+   "words": 49,
+   "speak": 27,
+   "pause": 5,
+   "dur": 35,
+   "start": 0,
+   "end": 35
+  },
+  {
+   "n": 2,
+   "id": "coca-cola",
+   "words": 90,
+   "speak": 49,
+   "pause": 6,
+   "dur": 60,
+   "start": 35,
+   "end": 95
+  },
+  {
+   "n": 3,
+   "id": "vyvoj",
+   "words": 113,
+   "speak": 62,
+   "pause": 3,
+   "dur": 70,
+   "start": 95,
+   "end": 165
+  },
+  {
+   "n": 4,
+   "id": "dobove-ukazky",
+   "words": 97,
+   "speak": 53,
+   "pause": 10,
+   "dur": 65,
+   "start": 165,
+   "end": 230
+  },
+  {
+   "n": 5,
+   "id": "test-produkt",
+   "words": 103,
+   "speak": 56,
+   "pause": 10,
+   "dur": 70,
+   "start": 230,
+   "end": 300
+  },
+  {
+   "n": 6,
+   "id": "test-text",
+   "words": 68,
+   "speak": 37,
+   "pause": 8,
+   "dur": 50,
+   "start": 300,
+   "end": 350
+  },
+  {
+   "n": 7,
+   "id": "test-lide",
+   "words": 83,
+   "speak": 45,
+   "pause": 8,
+   "dur": 55,
+   "start": 350,
+   "end": 405
+  },
+  {
+   "n": 8,
+   "id": "upravy",
+   "words": 85,
+   "speak": 46,
+   "pause": 8,
+   "dur": 60,
+   "start": 405,
+   "end": 465
+  },
+  {
+   "n": 9,
+   "id": "postava",
+   "words": 57,
+   "speak": 31,
+   "pause": 8,
+   "dur": 45,
+   "start": 465,
+   "end": 510
+  },
+  {
+   "n": 10,
+   "id": "video",
+   "words": 41,
+   "speak": 22,
+   "pause": 18,
+   "dur": 45,
+   "start": 510,
+   "end": 555
+  },
+  {
+   "n": 11,
+   "id": "sest-mist",
+   "words": 107,
+   "speak": 58,
+   "pause": 3,
+   "dur": 65,
+   "start": 555,
+   "end": 620
+  },
+  {
+   "n": 12,
+   "id": "model-aplikace",
+   "words": 109,
+   "speak": 59,
+   "pause": 3,
+   "dur": 65,
+   "start": 620,
+   "end": 685
+  },
+  {
+   "n": 13,
+   "id": "test-modelu",
+   "words": 119,
+   "speak": 65,
+   "pause": 8,
+   "dur": 75,
+   "start": 685,
+   "end": 760
+  },
+  {
+   "n": 14,
+   "id": "platformy",
+   "words": 108,
+   "speak": 59,
+   "pause": 3,
+   "dur": 65,
+   "start": 760,
+   "end": 825
+  },
+  {
+   "n": 15,
+   "id": "data",
+   "words": 81,
+   "speak": 44,
+   "pause": 8,
+   "dur": 55,
+   "start": 825,
+   "end": 880
+  },
+  {
+   "n": 16,
+   "id": "kampane",
+   "words": 98,
+   "speak": 53,
+   "pause": 8,
+   "dur": 65,
+   "start": 880,
+   "end": 945
+  },
+  {
+   "n": 17,
+   "id": "agent",
+   "words": 151,
+   "speak": 82,
+   "pause": 3,
+   "dur": 90,
+   "start": 945,
+   "end": 1035
+  },
+  {
+   "n": 18,
+   "id": "agenti-cisla",
+   "words": 90,
+   "speak": 49,
+   "pause": 6,
+   "dur": 60,
+   "start": 1035,
+   "end": 1095
+  },
+  {
+   "n": 19,
+   "id": "virtualni-tvare",
+   "words": 124,
+   "speak": 68,
+   "pause": 8,
+   "dur": 80,
+   "start": 1095,
+   "end": 1175
+  },
+  {
+   "n": 20,
+   "id": "aktivita",
+   "words": 38,
+   "speak": 21,
+   "pause": 45,
+   "dur": 70,
+   "start": 1175,
+   "end": 1245
+  },
+  {
+   "n": 21,
+   "id": "odhaleni",
+   "words": 153,
+   "speak": 83,
+   "pause": 5,
+   "dur": 90,
+   "start": 1245,
+   "end": 1335
+  },
+  {
+   "n": 22,
+   "id": "dolozeni",
+   "words": 108,
+   "speak": 59,
+   "pause": 3,
+   "dur": 65,
+   "start": 1335,
+   "end": 1400
+  },
+  {
+   "n": 23,
+   "id": "okoli",
+   "words": 92,
+   "speak": 50,
+   "pause": 5,
+   "dur": 60,
+   "start": 1400,
+   "end": 1460
+  },
+  {
+   "n": 24,
+   "id": "zaver",
+   "words": 53,
+   "speak": 29,
+   "pause": 3,
+   "dur": 35,
+   "start": 1460,
+   "end": 1495
+  }
+ ],
+ "titles": [
+  "Umělá inteligence v reklamě",
+  "Tuhle reklamu vytvořila AI. A přes 40 lidí.",
+  "Nejdřív AI počítala. Teď tvoří a jedná.",
+  "Před třemi lety: realistické, ale s chybami",
+  "Stejné zadání, 2023 a dnes",
+  "Český nadpis: dřív změť písmen, dnes i s diakritikou",
+  "Lidé: dnes přesně podle zadání, i s cizí značkou",
+  "Změnit jen to, co chceme",
+  "Stejná tvář v nových scénách",
+  "Video: dva roky rozdílu",
+  "AI pomáhá v celé kampani, ale pokaždé jinak",
+  "Model, aplikace a nástroje nejsou totéž",
+  "Stejné zadání pro dva modely",
+  "Komu a za kolik ukázat reklamu, řeší AI",
+  "Každá šestá firma v Česku už AI používá",
+  "Rychleji a levněji. Ne vždy s potleskem.",
+  "Agent kampaň připraví. Peníze hlídá člověk.",
+  "Krátké úkoly agenti zvládají, dlouhé zatím ne",
+  "Virtuální tvář není vždy AI",
+  "Co z toho vytvořila AI?",
+  "Odhalení: původ doložil zdroj, ne vzhled",
+  "Vzhled vzbudí podezření. Doložit ho musí zdroj.",
+  "AI reklama v našem okolí",
+  "Co si odnést"
+ ]
+}

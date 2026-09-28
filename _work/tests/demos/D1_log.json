@@ -1,0 +1,14 @@
+{
+  "input_image_path": "modern/T1_attempt1.png",
+  "calls": [
+    {
+      "prompt": "Edit Image 1. Change only the setting: place the same bottle on a wooden table on a snowy mountain cabin terrace in winter, soft daylight. Keep the bottle shape, cap, liquid colour and the whole label (text, illustration, layout) exactly unchanged. Keep the lemons. Do not add any new text.",
+      "source_path": "/Users/maximkudela/.codex/generated_images/01a0cae5-5685-7841-8e69-31a558720c57/exec-02820a21-34e3-46ee-97ed-31eeff091706.png",
+      "pixel_dimensions": {
+        "width": 1145,
+        "height": 1374
+      },
+      "image_model_name": null
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+[
+  {
+    "slide": 1,
+    "id": "cover",
+    "words": [
+      "Umělá inteligence\nv reklamě",
+      "Od prvních experimentů k dnešním kampaním",
+      "Září 2026",
+      "01"
+    ],
+    "sources": [],
+    "visuals": [],
+    "text": "Umělá inteligence\nv reklamě\nOd prvních experimentů k dnešním kampaním\nZáří 2026\n01",
+    "wordCount": 13
+  },
+  {
+    "slide": 2,
+    "id": "history",
+    "words": [
+      "Začalo to dávno před ChatGPT",
+      "1956",
+      "Vznik oboru AI",
+      "1997",
+      "Deep Blue poráží\nKasparova",
+      "2016",
+      "Google zavádí\nSmart Bidding",
+      "2022",
+      "DALL-E 2\na ChatGPT",
+      "Vybrané milníky. Dartmouth, IBM, Google, OpenAI.",
+      "02"
+    ],
+    "sources": [
+      "dartmouth_history",
+      "dartmouth",
+      "deepblue",
+      "smartbid2016",
+      "chatgpt2022",
+      "dalle2paper"
+    ],
+    "visuals": [],
+    "text": "Začalo to dávno před ChatGPT\n1956\nVznik oboru AI\n1997\nDeep Blue poráží\nKasparova\n2016\nGoogle zavádí\nSmart Bidding\n2022\nDALL-E 2\na ChatGPT\nVybrané milníky. Dartmouth, IBM, Google, OpenAI.\n02",
+    "wordCount": 31
+  },
+  {
+    "slide": 3,
+    "id": "product",
+    "words": [
+      "Stejné zadání pro dva generátory",
+      "SDXL 1.0 (2023)",
+      "OpenAI (2026)",
+      "Vlastní ukázka. Oba nástroje spuštěny 22. 9. 2026. Výběr ze 4 pokusů, bez retuše.",
+      "03"
+    ],
+    "sources": [
+      "own_img",
+      "sdxl"
+    ],
+    "visuals": [
+      "t1_sdxl",
+      "t1_now"
+    ],
+    "text": "Stejné zadání pro dva generátory\nSDXL 1.0 (2023)\nOpenAI (2026)\nVlastní ukázka. Oba nástroje spuštěny 22. 9. 2026. Výběr ze 4 pokusů, bez retuše.\n03",
+    "wordCount": 25
+  },
+  {
+    "slide": 4,
+    "id": "lettering",
+    "words": [
+      "Rozdíl je vidět i na češtině",
+      "SDXL 1.0 (2023)",
+      "OpenAI (2026)",
+      "Vlastní ukázka. Oba nástroje spuštěny 22. 9. 2026. Výběr ze 4 pokusů, bez retuše.",
+      "04"
+    ],
+    "sources": [
+      "own_img"
+    ],
+    "visuals": [
+      "t2_sdxl",
+      "t2_now"
+    ],
+    "text": "Rozdíl je vidět i na češtině\nSDXL 1.0 (2023)\nOpenAI (2026)\nVlastní ukázka. Oba nástroje spuštěny 22. 9. 2026. Výběr ze 4 pokusů, bez retuše.\n04",
+    "wordCount": 26
+  },
+  {
+    "slide": 5,
+    "id": "variation",
+    "words": [
+      "Jeden produkt, dvě prostředí",
+      "Původní obrázek",
+      "Zimní varianta",
+      "Vlastní AI ukázka fiktivní značky ZÁTOKA. Jedna úprava podle reference, bez retuše.",
+      "05"
+    ],
+    "sources": [
+      "own_img"
+    ],
+    "visuals": [
+      "t1_now",
+      "d1"
+    ],
+    "text": "Jeden produkt, dvě prostředí\nPůvodní obrázek\nZimní varianta\nVlastní AI ukázka fiktivní značky ZÁTOKA. Jedna úprava podle reference, bez retuše.\n05",
+    "wordCount": 21
+  },
+  {
+    "slide": 6,
+    "id": "video",
+    "words": [
+      "Dva roky rozdílu ve videu",
+      "2023",
+      "2025",
+      "Obě videa vytvořila AI",
+      "ModelScope / u/chaindrop (2023). Veo 3 / Javi Lopez (2025), PetaPixel.",
+      "06"
+    ],
+    "sources": [
+      "ws2023",
+      "ws2025"
+    ],
+    "visuals": [
+      "ws23",
+      "ws25"
+    ],
+    "text": "Dva roky rozdílu ve videu\n2023\n2025\nObě videa vytvořila AI\nModelScope / u/chaindrop (2023). Veo 3 / Javi Lopez (2025), PetaPixel.\n06",
+    "wordCount": 23
+  },
+  {
+    "slide": 7,
+    "id": "pope",
+    "words": [
+      "Papežova bunda,\nkterá neexistovala",
+      "2023",
+      "Virální obrázek z Midjourney",
+      "AI obraz papeže Františka. u/trippy_art_special, březen 2023. The Verge.",
+      "07"
+    ],
+    "sources": [
+      "verge_pope",
+      "pope_reddit"
+    ],
+    "visuals": [
+      "pope"
+    ],
+    "text": "Papežova bunda,\nkterá neexistovala\n2023\nVirální obrázek z Midjourney\nAI obraz papeže Františka. u/trippy_art_special, březen 2023. The Verge.\n07",
+    "wordCount": 19
+  },
+  {
+    "slide": 8,
+    "id": "uses",
+    "words": [
+      "Kde dnes AI v reklamě pomáhá",
+      "01",
+      "Příprava",
+      "rešerše a nápady",
+      "02",
+      "Tvorba",
+      "text, obraz, video",
+      "03",
+      "Doručení",
+      "publikum a nabídky",
+      "04",
+      "Vyhodnocení",
+      "shrnutí výsledků",
+      "Příklady využití. Konkrétní možnosti závisejí na nástroji a dostupných datech.",
+      "08"
+    ],
+    "sources": [
+      "smartbid2016",
+      "own_img"
+    ],
+    "visuals": [],
+    "text": "Kde dnes AI v reklamě pomáhá\n01\nPříprava\nrešerše a nápady\n02\nTvorba\ntext, obraz, video\n03\nDoručení\npublikum a nabídky\n04\nVyhodnocení\nshrnutí výsledků\nPříklady využití. Konkrétní možnosti závisejí na nástroji a dostupných datech.\n08",
+    "wordCount": 36
+  },
+  {
+    "slide": 9,
+    "id": "adoption",
+    "words": [
+      "AI používá téměř pětina českých firem",
+      "Eurostat, 2025. Podniky s 10+ zaměstnanci ve sledovaných odvětvích. Zaokrouhleno.",
+      "09"
+    ],
+    "sources": [
+      "eurostat_ent"
+    ],
+    "visuals": [],
+    "text": "AI používá téměř pětina českých firem\nEurostat, 2025. Podniky s 10+ zaměstnanci ve sledovaných odvětvích. Zaokrouhleno.\n09",
+    "wordCount": 17
+  },
+  {
+    "slide": 10,
+    "id": "heinz",
+    "words": [
+      "Heinz z AI udělal nápad na reklamu",
+      "„Nakresli kečup“",
+      "Heinz, 2022",
+      "Skutečná kampaň A.I. Ketchup. Heinz / Rethink. Vizuál přes Adweek, popis Applied Arts.",
+      "10"
+    ],
+    "sources": [
+      "heinz_awards2022",
+      "heinz_awards2023",
+      "adweek_heinz"
+    ],
+    "visuals": [
+      "heinz"
+    ],
+    "text": "Heinz z AI udělal nápad na reklamu\n„Nakresli kečup“\nHeinz, 2022\nSkutečná kampaň A.I. Ketchup. Heinz / Rethink. Vizuál přes Adweek, popis Applied Arts.\n10",
+    "wordCount": 25
+  },
+  {
+    "slide": 11,
+    "id": "coke",
+    "words": [
+      "Kolik lidí pracovalo na AI reklamě?",
+      "40+",
+      "tvůrců",
+      "podle studia Silverside",
+      "Skutečná kampaň Coca-Cola, Vánoce 2024. Údaj o týmu uvádí studio Silverside.",
+      "11"
+    ],
+    "sources": [
+      "silverside"
+    ],
+    "visuals": [
+      "coke24"
+    ],
+    "text": "Kolik lidí pracovalo na AI reklamě?\n40+\ntvůrců\npodle studia Silverside\nSkutečná kampaň Coca-Cola, Vánoce 2024. Údaj o týmu uvádí studio Silverside.\n11",
+    "wordCount": 23
+  },
+  {
+    "slide": 12,
+    "id": "table",
+    "words": [
+      "Co u výstupu kontroluje člověk",
+      "AI navrhne",
+      "Člověk ověří",
+      "Text",
+      "Fakta a nabídku",
+      "Obrázek",
+      "Produkt a značku",
+      "Kampaň",
+      "Cíl a rozpočet",
+      "Doporučená kontrola při přípravě reklamy.",
+      "12"
+    ],
+    "sources": [],
+    "visuals": [],
+    "text": "Co u výstupu kontroluje člověk\nAI navrhne\nČlověk ověří\nText\nFakta a nabídku\nObrázek\nProdukt a značku\nKampaň\nCíl a rozpočet\nDoporučená kontrola při přípravě reklamy.\n12",
+    "wordCount": 27
+  },
+  {
+    "slide": 13,
+    "id": "invented",
+    "words": [
+      "AI si může domyslet vlastnosti výrobku",
+      "„Bez konzervantov“",
+      "Tohle v zadání nebylo",
+      "Vlastní ukázka, 22. 9. 2026. Detail jiného výstupu: zadání T1, pokus 3.",
+      "13"
+    ],
+    "sources": [
+      "own_img"
+    ],
+    "visuals": [
+      "t1_now3_label"
+    ],
+    "text": "AI si může domyslet vlastnosti výrobku\n„Bez konzervantov“\nTohle v zadání nebylo\nVlastní ukázka, 22. 9. 2026. Detail jiného výstupu: zadání T1, pokus 3.\n13",
+    "wordCount": 25
+  },
+  {
+    "slide": 14,
+    "id": "agents",
+    "words": [
+      "Agent propojí více kroků práce",
+      "01",
+      "Zadání",
+      "02",
+      "Návrh",
+      "03",
+      "Kontrola",
+      "04",
+      "Spuštění",
+      "Schválení a rozpočet",
+      "Ilustrační pracovní postup s kontrolou člověkem. Možnosti závisí na připojených nástrojích.",
+      "14"
+    ],
+    "sources": [
+      "anth_cu2024"
+    ],
+    "visuals": [],
+    "text": "Agent propojí více kroků práce\n01\nZadání\n02\nNávrh\n03\nKontrola\n04\nSpuštění\nSchválení a rozpočet\nIlustrační pracovní postup s kontrolou člověkem. Možnosti závisí na připojených nástrojích.\n14",
+    "wordCount": 28
+  },
+  {
+    "slide": 15,
+    "id": "quiz",
+    "words": [
+      "Který obrázek vytvořila AI?",
+      "A",
+      "B",
+      "Zdroje a řešení na následujícím slidu.",
+      "15"
+    ],
+    "sources": [
+      "mediar_rohlik",
+      "cc_rohlik",
+      "commons_car"
+    ],
+    "visuals": [
+      "rohlik",
+      "car"
+    ],
+    "text": "Který obrázek vytvořila AI?\nA\nB\nZdroje a řešení na následujícím slidu.\n15",
+    "wordCount": 13
+  },
+  {
+    "slide": 16,
+    "id": "reveal",
+    "words": [
+      "Původ obou obrázků je doložený",
+      "A: AI spot",
+      "Rohlík, 2025",
+      "B: Fotografie",
+      "Praha, 2022",
+      "A: Rohlík / CzechCrunch, Médiář. B: JiriMatejicek, CC BY-SA 3.0, rozmazané SPZ.",
+      "16"
+    ],
+    "sources": [
+      "mediar_rohlik",
+      "cc_rohlik",
+      "commons_car"
+    ],
+    "visuals": [
+      "rohlik",
+      "car"
+    ],
+    "text": "Původ obou obrázků je doložený\nA: AI spot\nRohlík, 2025\nB: Fotografie\nPraha, 2022\nA: Rohlík / CzechCrunch, Médiář. B: JiriMatejicek, CC BY-SA 3.0, rozmazané SPZ.\n16",
+    "wordCount": 27
+  },
+  {
+    "slide": 17,
+    "id": "close",
+    "words": [
+      "AI zrychluje tvorbu.\nVýsledek potřebuje úsudek.",
+      "Co vás na ukázkách nejvíc překvapilo?",
+      "17"
+    ],
+    "sources": [],
+    "visuals": [],
+    "text": "AI zrychluje tvorbu.\nVýsledek potřebuje úsudek.\nCo vás na ukázkách nejvíc překvapilo?\n17",
+    "wordCount": 13
+  }
+]

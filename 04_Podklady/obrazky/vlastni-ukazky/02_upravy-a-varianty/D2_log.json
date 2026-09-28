@@ -1,0 +1,15 @@
+{
+  "input_image_path": "modern/T2_attempt2.png",
+  "calls": [
+    {
+      "prompt": "Edit Image 1. Translate all visible Czech text into German: the headline becomes \"Frische Brötchen jeden Morgen\", the bottom line becomes \"Bäckerei An der Mühle\", and any other small texts become short natural German. Keep the photo, layout, typography style, colours and everything else unchanged.",
+      "source_path": "/Users/maximkudela/.codex/generated_images/01a0cae6-cb97-78c2-a959-b3d14bea95c4/exec-3ffb6a07-4db2-45a7-8622-ec3d86bab07d.png",
+      "output_path": "D2_call1.png",
+      "pixel_dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "image_model_name": null
+    }
+  ]
+}

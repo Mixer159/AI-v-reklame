@@ -1,0 +1,86 @@
+Reading additional input from stdin...
+OpenAI Codex v0.156.0
+--------
+workdir: /Users/maximkudela/Documents/AI-v-reklame/_work/tests/llm
+model: gpt-6-astra
+provider: openai
+approval: never
+sandbox: read-only
+reasoning effort: high
+reasoning summaries: none
+session id: 01a0cada-eac5-7470-935b-873c91186806
+--------
+user
+Jsi copywriter. Pracuj pouze s informacemi v tomto zadání, nepoužívej web ani žádné nástroje.
+
+Fiktivní značka: ZÁTOKA, bylinná limonáda z malé výrobny v jižních Čechách.
+Fakta o produktu: bez umělých sladidel, skleněná lahev 0,33 l, cena 49 Kč, příchutě meduňka s citronem a máta s okurkou.
+Cílová skupina: lidé 25–40 let ve městech, léto.
+
+Úkol:
+1. Navrhni tři odlišné kreativní koncepty kampaně. U každého uveď název a jednu větu, o čem je.
+2. Vyber nejsilnější koncept a jednou větou zdůvodni proč.
+3. Pro vybraný koncept napiš tři varianty reklamy na Instagram. Každá varianta má primární text do 125 znaků a titulek do 40 znaků.
+4. Napiš jeden claim na billboard, nejvýše 6 slov.
+
+Piš přirozenou češtinou, bez klišé. Nevymýšlej fakta, která nejsou v zadání (ocenění, čísla, suroviny, místa, recenze).
+codex
+1. **ZÁTOKA mezi domy**  
+   Kampaň zasazuje ZÁTOKU do městského léta a hraje si s představou vlastní zátoky uprostřed ulic.
+
+2. **Bylinky mají společnost**  
+   Kampaň představuje dvě chuťové dvojice, meduňku s citronem a mátu s okurkou, jako hlavní postavy léta.
+
+3. **Etiketa má slovo**  
+   Kampaň staví na stručných produktových faktech a dává prostor tomu, co si člověk před koupí chce přečíst.
+
+Nejsilnější je **ZÁTOKA mezi domy**, protože propojuje název značky s prostředím cílové skupiny a nabízí snadno zapamatovatelný obraz.
+
+**Instagram**
+
+- **Varianta 1**  
+  Primární text: Mezi domy je místo na ZÁTOKU. Bylinná limonáda z malé výrobny v jižních Čechách.  
+  Titulek: Otevři si ZÁTOKU
+
+- **Varianta 2**  
+  Primární text: Tvoje letní adresa: ZÁTOKA. Meduňka s citronem, nebo máta s okurkou?  
+  Titulek: Dvě příchutě pro městské léto
+
+- **Varianta 3**  
+  Primární text: Do tašky, pak do města. ZÁTOKA: bylinná limonáda bez umělých sladidel. Skleněná lahev 0,33 l za 49 Kč.  
+  Titulek: Vezmi ZÁTOKU ven
+
+**Billboard**
+
+I mezi domy je ZÁTOKA.
+tokens used
+20 076
+1. **ZÁTOKA mezi domy**  
+   Kampaň zasazuje ZÁTOKU do městského léta a hraje si s představou vlastní zátoky uprostřed ulic.
+
+2. **Bylinky mají společnost**  
+   Kampaň představuje dvě chuťové dvojice, meduňku s citronem a mátu s okurkou, jako hlavní postavy léta.
+
+3. **Etiketa má slovo**  
+   Kampaň staví na stručných produktových faktech a dává prostor tomu, co si člověk před koupí chce přečíst.
+
+Nejsilnější je **ZÁTOKA mezi domy**, protože propojuje název značky s prostředím cílové skupiny a nabízí snadno zapamatovatelný obraz.
+
+**Instagram**
+
+- **Varianta 1**  
+  Primární text: Mezi domy je místo na ZÁTOKU. Bylinná limonáda z malé výrobny v jižních Čechách.  
+  Titulek: Otevři si ZÁTOKU
+
+- **Varianta 2**  
+  Primární text: Tvoje letní adresa: ZÁTOKA. Meduňka s citronem, nebo máta s okurkou?  
+  Titulek: Dvě příchutě pro městské léto
+
+- **Varianta 3**  
+  Primární text: Do tašky, pak do města. ZÁTOKA: bylinná limonáda bez umělých sladidel. Skleněná lahev 0,33 l za 49 Kč.  
+  Titulek: Vezmi ZÁTOKU ven
+
+**Billboard**
+
+I mezi domy je ZÁTOKA.
+finished 34s
